@@ -13,6 +13,7 @@
 CREATE TABLE rss_sources (
     rss_source_id BIGSERIAL PRIMARY KEY,
     name VARCHAR(255) NOT NULL,
+    category VARCHAR(100) NOT NULL,
     feed_url TEXT NOT NULL,
     website_url TEXT,
     is_active BOOLEAN NOT NULL DEFAULT TRUE,
