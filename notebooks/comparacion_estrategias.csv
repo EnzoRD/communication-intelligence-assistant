@@ -1,0 +1,4 @@
+﻿Estrategia,Precisión (%),Recall (%),F1-score (%),Exactitud (%)
+Palabras clave,52.78,100.0,69.09,81.72
+NLI,73.33,57.89,64.71,87.1
+Combinado,50.0,100.0,66.67,79.57
