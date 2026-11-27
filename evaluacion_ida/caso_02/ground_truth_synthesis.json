@@ -1,0 +1,54 @@
+{
+  "queries": [
+    {
+      "id": "S01",
+      "query": "Resumí la noticia sobre ampliación de generación solar, incluyendo su fuente original.",
+      "expected": [
+        {
+          "url": "https://caso02.example.invalid/noticias/001",
+          "fact": "La puesta en marcha de 24 MW adicionales fue celebrada por su aporte al suministro eléctrico argentino."
+        },
+        {
+          "url": "https://caso02.example.invalid/noticias/001",
+          "fact": "El parque se conectó a la red nacional el 12 de abril."
+        }
+      ]
+    },
+    {
+      "id": "S02",
+      "query": "¿Cuáles son las principales novedades sobre sector energético argentino, específicamente ampliación solar, reducción de interrupciones y recuperación de capacidad de una central?",
+      "expected": [
+        {
+          "url": "https://caso02.example.invalid/noticias/001",
+          "fact": "La puesta en marcha de 24 MW adicionales fue celebrada por su aporte al suministro eléctrico argentino."
+        },
+        {
+          "url": "https://caso02.example.invalid/noticias/002",
+          "fact": "La mejora del servicio benefició a 800 hogares y recibió una valoración favorable."
+        },
+        {
+          "url": "https://caso02.example.invalid/noticias/003",
+          "fact": "La reparación permitió recuperar 18 MW y reforzó la disponibilidad de energía."
+        }
+      ]
+    },
+    {
+      "id": "S03",
+      "query": "Elaborá un boletín informativo sobre sector energético argentino, centrado en ampliación solar, reducción de interrupciones y recuperación de capacidad de una central, incluyendo las fuentes originales.",
+      "expected": [
+        {
+          "url": "https://caso02.example.invalid/noticias/001",
+          "fact": "La puesta en marcha de 24 MW adicionales fue celebrada por su aporte al suministro eléctrico argentino."
+        },
+        {
+          "url": "https://caso02.example.invalid/noticias/002",
+          "fact": "La mejora del servicio benefició a 800 hogares y recibió una valoración favorable."
+        },
+        {
+          "url": "https://caso02.example.invalid/noticias/003",
+          "fact": "La reparación permitió recuperar 18 MW y reforzó la disponibilidad de energía."
+        }
+      ]
+    }
+  ]
+}

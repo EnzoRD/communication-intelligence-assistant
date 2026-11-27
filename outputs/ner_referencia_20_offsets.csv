@@ -1,0 +1,39 @@
+﻿rss_news_id,entity_text,entity_type,start_char,end_char
+1,Google Drive,product,45,57
+1,Gmail,product,59,64
+1,Google Fotos,product,67,79
+37,Android,product,44,51
+41,WhatsApp,product,22,30
+59,Nokia 1100,product,0,10
+59,Snake,product,97,102
+89,Gemini,product,186,192
+114,Torre Eiffel,location,3,15
+114,Google Earth,product,28,40
+114,Google,organization,163,169
+114,Torre Eiffel,location,222,234
+114,Google Earth,product,247,259
+114,Agencia de Noticias Científicas de la UNQ,organization,325,366
+115,Argentina,location,74,83
+115,Carem,product,115,120
+115,Argentina,location,268,277
+115,Agencia de Noticias Científicas de la UNQ,organization,297,338
+118,Erling Haaland,person,0,14
+118,YouTube,product,110,117
+118,Snapchat,product,148,156
+118,Erling Haaland,person,233,247
+118,Agencia de Noticias Científicas de la UNQ,organization,335,376
+125,Agencia de Noticias Científicas de la UNQ,organization,285,326
+126,Agencia de Noticias Científicas de la UNQ,organization,373,414
+129,Margaret Bulkley,person,10,26
+129,James Barry,person,111,122
+129,Margaret Bulkley,person,241,257
+129,Agencia de Noticias Científicas de la UNQ,organization,335,376
+134,Agencia de Noticias Científicas de la UNQ,organization,341,382
+159,Latinoamérica,location,107,120
+159,Latinoamérica,location,816,829
+159,Latinoamérica,location,1330,1343
+179,América Latina,location,37,51
+179,Instituto Tecnológico de Massachussetts,organization,120,159
+183,Universidad Chulalongkorn,organization,226,251
+183,Tailandia,location,256,265
+183,sudeste asiático,location,373,389

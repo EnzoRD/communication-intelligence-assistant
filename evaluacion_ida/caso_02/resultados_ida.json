@@ -1,0 +1,96 @@
+{
+    "monitoring": {
+        "m1_coverage": 0.8,
+        "m2_pertinence": 0.96,
+        "score": 0.88,
+        "threshold": 0.7,
+        "accepted": true,
+        "confusion_matrix": {
+            "true_positives": 24,
+            "false_positives": 1,
+            "true_negatives": 19,
+            "false_negatives": 6
+        }
+    },
+    "analysis": {
+        "a1_correctness": 0.7142857142857143,
+        "a2_completeness": 0.7142857142857143,
+        "score": 0.7142857142857143,
+        "threshold": 0.7,
+        "accepted": true,
+        "expected_units": 7,
+        "provided_units": 7,
+        "correct_units": 5,
+        "queries": [
+            {
+                "query_id": "A01",
+                "expected_units": 1,
+                "provided_units": 1,
+                "correct_units": 1,
+                "tool": "news_count_by_source"
+            },
+            {
+                "query_id": "A02",
+                "expected_units": 3,
+                "provided_units": 3,
+                "correct_units": 1,
+                "tool": "sentiment_distribution"
+            },
+            {
+                "query_id": "A03",
+                "expected_units": 3,
+                "provided_units": 3,
+                "correct_units": 3,
+                "tool": "top_entities"
+            }
+        ]
+    },
+    "synthesis": {
+        "s1_fidelity": 0.8292682926829268,
+        "s2_coverage": 0.375,
+        "score": 0.6021341463414633,
+        "threshold": 0.7,
+        "accepted": false,
+        "generated_claims": 41,
+        "supported_claims": 34,
+        "expected_facts": 8,
+        "correct_facts": 3,
+        "queries": [
+            {
+                "query_id": "S01",
+                "generated_claims": 8,
+                "supported_claims": 6,
+                "expected_facts": 2,
+                "correct_facts": 1,
+                "strategy": "semantic_search",
+                "include_in_ida": true
+            },
+            {
+                "query_id": "S02",
+                "generated_claims": 14,
+                "supported_claims": 14,
+                "expected_facts": 3,
+                "correct_facts": 1,
+                "strategy": "semantic_search",
+                "include_in_ida": true
+            },
+            {
+                "query_id": "S03",
+                "generated_claims": 19,
+                "supported_claims": 14,
+                "expected_facts": 3,
+                "correct_facts": 1,
+                "strategy": "context_reuse",
+                "include_in_ida": true
+            }
+        ],
+        "evaluation_mode": "conversational"
+    },
+    "ida": {
+        "score": 0.7321399535423926,
+        "threshold": 0.7,
+        "global_accepted": true,
+        "dimensions_accepted": false,
+        "case_accepted": false
+    }
+}

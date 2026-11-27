@@ -1,0 +1,32 @@
+﻿error,rss_news_id,entity_text,entity_type,start_char,end_char
+FP,1,Videos,product,81,87
+FP,1,instaladores,product,110,122
+FP,24,Un robot humanoide,product,0,18
+FP,41,WhatsApp,organization,22,30
+FP,59,mundo,location,81,86
+FP,79,aura,product,37,41
+FP,89,Las Guerreras K-pop,organization,15,34
+FP,89,Gemini,organization,186,192
+FP,103,celular,product,33,40
+FP,114,La Torre Eiffel,location,0,15
+FP,114,Google,organization,28,34
+FP,114,La Torre Eiffel,location,219,234
+FP,114,Google,organization,247,253
+FP,159,productos de cuidado personal,product,265,294
+FP,159,PCP,product,296,299
+FP,159,PhAC,product,317,321
+FP,159,PCP,product,1285,1288
+FP,159,PhAC,product,1291,1295
+FP,168,planeta,location,13,20
+FP,168,planeta,location,173,180
+FP,179,vacuna oral para aves de granja,product,248,279
+FP,183,omeprazol,product,41,50
+FP,183,investigadores,person,205,219
+FN,41,WhatsApp,product,22,30
+FN,89,Gemini,product,186,192
+FN,114,Torre Eiffel,location,3,15
+FN,114,Google Earth,product,28,40
+FN,114,Torre Eiffel,location,222,234
+FN,114,Google Earth,product,247,259
+FN,118,YouTube,product,110,117
+FN,118,Snapchat,product,148,156

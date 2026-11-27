@@ -1,0 +1,54 @@
+﻿rss_news_id,entity_text,entity_type,start_char,end_char,confidence
+1,Google Drive,product,45,57,0.8733929991722107
+1,Gmail,product,59,64,0.9705836772918701
+1,Google Fotos,product,67,79,0.9189891219139099
+1,Videos,product,81,87,0.7486883997917175
+1,instaladores,product,110,122,0.5676290988922119
+24,Un robot humanoide,product,0,18,0.6245748400688171
+37,Android,product,44,51,0.5752323269844055
+41,WhatsApp,organization,22,30,0.7346880435943604
+59,Nokia 1100,product,0,10,0.9247376918792725
+59,mundo,location,81,86,0.6897473931312561
+59,Snake,product,97,102,0.5305829644203186
+79,aura,product,37,41,0.5415117144584656
+89,Las Guerreras K-pop,organization,15,34,0.6078676581382751
+89,Gemini,organization,186,192,0.5859907269477844
+103,celular,product,33,40,0.5436958074569702
+114,La Torre Eiffel,location,0,15,0.9688342809677124
+114,Google,organization,28,34,0.9559792280197144
+114,Google,organization,163,169,0.9426563382148743
+114,La Torre Eiffel,location,219,234,0.940046489238739
+114,Google,organization,247,253,0.9519557952880859
+114,Agencia de Noticias Científicas de la UNQ,organization,325,366,0.6747806668281555
+115,Argentina,location,74,83,0.9834517240524292
+115,Carem,product,115,120,0.9128842949867249
+115,Argentina,location,268,277,0.9700914621353149
+115,Agencia de Noticias Científicas de la UNQ,organization,297,338,0.7117976546287537
+118,Erling Haaland,person,0,14,0.99699866771698
+118,Erling Haaland,person,233,247,0.9936000108718872
+118,Agencia de Noticias Científicas de la UNQ,organization,335,376,0.6416113972663879
+125,Agencia de Noticias Científicas de la UNQ,organization,285,326,0.8080492615699768
+126,Agencia de Noticias Científicas de la UNQ,organization,373,414,0.7803524732589722
+129,Margaret Bulkley,person,10,26,0.9950994849205017
+129,James Barry,person,111,122,0.8703799843788147
+129,Margaret Bulkley,person,241,257,0.9897496104240417
+129,Agencia de Noticias Científicas de la UNQ,organization,335,376,0.6223888993263245
+134,Agencia de Noticias Científicas de la UNQ,organization,341,382,0.8414626121520996
+159,Latinoamérica,location,107,120,0.966832160949707
+159,productos de cuidado personal,product,265,294,0.519734799861908
+159,PCP,product,296,299,0.6419376730918884
+159,PhAC,product,317,321,0.6505796909332275
+159,Latinoamérica,location,816,829,0.9534993767738342
+159,PCP,product,1285,1288,0.5840989947319031
+159,PhAC,product,1291,1295,0.642898440361023
+159,Latinoamérica,location,1330,1343,0.9653209447860718
+168,planeta,location,13,20,0.6330887079238892
+168,planeta,location,173,180,0.5096192955970764
+179,América Latina,location,37,51,0.8294515013694763
+179,Instituto Tecnológico de Massachussetts,organization,120,159,0.9489359259605408
+179,vacuna oral para aves de granja,product,248,279,0.5052563548088074
+183,omeprazol,product,41,50,0.7555561065673828
+183,investigadores,person,205,219,0.6642158627510071
+183,Universidad Chulalongkorn,organization,226,251,0.9229332804679871
+183,Tailandia,location,256,265,0.9601077437400818
+183,sudeste asiático,location,373,389,0.7277686595916748

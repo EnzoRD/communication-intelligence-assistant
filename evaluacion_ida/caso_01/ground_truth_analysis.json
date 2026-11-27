@@ -1,0 +1,57 @@
+{
+  "scope": "Todas las 50 noticias del caso, no solo relevantes",
+  "queries": [
+    {
+      "id": "A01",
+      "query": "¿Cuántas noticias hay registradas por fuente?",
+      "expected": [
+        {
+          "source_name": "Medio Sintético 01",
+          "news_count": 50
+        }
+      ]
+    },
+    {
+      "id": "A02",
+      "query": "¿Cuál es la distribución de sentimientos de las noticias almacenadas?",
+      "expected": [
+        {
+          "sentiment": "negative",
+          "news_count": 16,
+          "percentage": 32
+        },
+        {
+          "sentiment": "neutral",
+          "news_count": 17,
+          "percentage": 34
+        },
+        {
+          "sentiment": "positive",
+          "news_count": 17,
+          "percentage": 34
+        }
+      ]
+    },
+    {
+      "id": "A03",
+      "query": "¿Cuáles son las tres organizaciones más mencionadas?",
+      "expected": [
+        {
+          "entity_text": "Universidad del Valle Claro",
+          "entity_type": "organization",
+          "news_count": 15
+        },
+        {
+          "entity_text": "Instituto Horizonte Austral",
+          "entity_type": "organization",
+          "news_count": 9
+        },
+        {
+          "entity_text": "Fundación Puente Abierto",
+          "entity_type": "organization",
+          "news_count": 6
+        }
+      ]
+    }
+  ]
+}

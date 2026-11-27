@@ -1,0 +1,119 @@
+{
+    "sentiment": {
+        "sample_size": 50,
+        "accuracy": 0.98,
+        "precision_macro": 0.9814814814814815,
+        "recall_macro": 0.9803921568627452,
+        "f1_macro": 0.9803751803751805,
+        "classification_report": {
+            "negative": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f1-score": 1.0,
+                "support": 16.0
+            },
+            "neutral": {
+                "precision": 1.0,
+                "recall": 0.9411764705882353,
+                "f1-score": 0.9696969696969697,
+                "support": 17.0
+            },
+            "positive": {
+                "precision": 0.9444444444444444,
+                "recall": 1.0,
+                "f1-score": 0.9714285714285714,
+                "support": 17.0
+            },
+            "accuracy": 0.98,
+            "macro avg": {
+                "precision": 0.9814814814814815,
+                "recall": 0.9803921568627452,
+                "f1-score": 0.9803751803751805,
+                "support": 50.0
+            },
+            "weighted avg": {
+                "precision": 0.9811111111111112,
+                "recall": 0.98,
+                "f1-score": 0.979982683982684,
+                "support": 50.0
+            }
+        },
+        "confusion_matrix": {
+            "labels": [
+                "negative",
+                "neutral",
+                "positive"
+            ],
+            "values": [
+                [
+                    16,
+                    0,
+                    0
+                ],
+                [
+                    0,
+                    16,
+                    1
+                ],
+                [
+                    0,
+                    0,
+                    17
+                ]
+            ]
+        }
+    },
+    "ner": {
+        "sample_size": 50,
+        "expected_entities": 30,
+        "predicted_entities": 59,
+        "micro_metrics": {
+            "tp": 30,
+            "fp": 29,
+            "fn": 0,
+            "precision": 0.5084745762711864,
+            "recall": 1.0,
+            "f1_score": 0.6741573033707865,
+            "support": 30
+        },
+        "f1_macro": 0.2173913043478261,
+        "metrics_by_category": {
+            "person": {
+                "tp": 0,
+                "fp": 12,
+                "fn": 0,
+                "precision": 0.0,
+                "recall": 0.0,
+                "f1_score": 0.0,
+                "support": 0
+            },
+            "organization": {
+                "tp": 30,
+                "fp": 9,
+                "fn": 0,
+                "precision": 0.7692307692307693,
+                "recall": 1.0,
+                "f1_score": 0.8695652173913044,
+                "support": 30
+            },
+            "location": {
+                "tp": 0,
+                "fp": 5,
+                "fn": 0,
+                "precision": 0.0,
+                "recall": 0.0,
+                "f1_score": 0.0,
+                "support": 0
+            },
+            "product": {
+                "tp": 0,
+                "fp": 3,
+                "fn": 0,
+                "precision": 0.0,
+                "recall": 0.0,
+                "f1_score": 0.0,
+                "support": 0
+            }
+        }
+    }
+}

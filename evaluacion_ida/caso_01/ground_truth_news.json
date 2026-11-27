@@ -1,0 +1,706 @@
+{
+  "topic": "universidad",
+  "source_name": "Medio Sintético 01",
+  "news": [
+    {
+      "news_id": "CU01-001",
+      "url": "https://caso01.example.invalid/noticias/001",
+      "is_relevant": true,
+      "sentiment": "positive",
+      "entities": [
+        {
+          "entity_text": "Universidad del Valle Claro",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "La ampliación a 240 becas fue celebrada por estudiantes que podrán continuar sus estudios.",
+        "La convocatoria abre el 12 de abril y cubre tres meses de transporte."
+      ]
+    },
+    {
+      "news_id": "CU01-002",
+      "url": "https://caso01.example.invalid/noticias/002",
+      "is_relevant": true,
+      "sentiment": "positive",
+      "entities": [
+        {
+          "entity_text": "Universidad del Valle Claro",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "La comunidad recibió con entusiasmo la extensión del horario hasta las 23.",
+        "La sala dispone de 80 puestos de lectura y acceso gratuito."
+      ]
+    },
+    {
+      "news_id": "CU01-003",
+      "url": "https://caso01.example.invalid/noticias/003",
+      "is_relevant": true,
+      "sentiment": "positive",
+      "entities": [
+        {
+          "entity_text": "Universidad del Valle Claro",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "La renovación de equipos beneficia a 120 estudiantes y reduce las esperas.",
+        "Se incorporaron seis estaciones de prácticas."
+      ]
+    },
+    {
+      "news_id": "CU01-004",
+      "url": "https://caso01.example.invalid/noticias/004",
+      "is_relevant": true,
+      "sentiment": "negative",
+      "entities": [
+        {
+          "entity_text": "Universidad del Valle Claro",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "La interrupción perjudicó a estudiantes y generó reclamos por las horas perdidas.",
+        "La suspensión afecta a cuatro comisiones."
+      ]
+    },
+    {
+      "news_id": "CU01-005",
+      "url": "https://caso01.example.invalid/noticias/005",
+      "is_relevant": true,
+      "sentiment": "negative",
+      "entities": [
+        {
+          "entity_text": "Universidad del Valle Claro",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "El retraso de dos meses agravó dificultades económicas de beneficiarios.",
+        "Se recibieron 45 reclamos en la oficina de bienestar."
+      ]
+    },
+    {
+      "news_id": "CU01-006",
+      "url": "https://caso01.example.invalid/noticias/006",
+      "is_relevant": true,
+      "sentiment": "negative",
+      "entities": [
+        {
+          "entity_text": "Universidad del Valle Claro",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "El daño en depósitos provocó pérdidas y malestar entre docentes.",
+        "La inspección identificó dos salas afectadas."
+      ]
+    },
+    {
+      "news_id": "CU01-007",
+      "url": "https://caso01.example.invalid/noticias/007",
+      "is_relevant": true,
+      "sentiment": "neutral",
+      "entities": [
+        {
+          "entity_text": "Universidad del Valle Claro",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "El cronograma fija mesas entre el 10 y el 21 de junio.",
+        "La inscripción se realiza por el portal académico."
+      ]
+    },
+    {
+      "news_id": "CU01-008",
+      "url": "https://caso01.example.invalid/noticias/008",
+      "is_relevant": true,
+      "sentiment": "neutral",
+      "entities": [
+        {
+          "entity_text": "Universidad del Valle Claro",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "La votación se realizará el 18 de mayo en tres sedes.",
+        "El padrón estará disponible cinco días antes."
+      ]
+    },
+    {
+      "news_id": "CU01-009",
+      "url": "https://caso01.example.invalid/noticias/009",
+      "is_relevant": true,
+      "sentiment": "neutral",
+      "entities": [
+        {
+          "entity_text": "Universidad del Valle Claro",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "Las comisiones de primer año se distribuirán en cuatro aulas.",
+        "La reasignación comienza el lunes siguiente."
+      ]
+    },
+    {
+      "news_id": "CU01-010",
+      "url": "https://caso01.example.invalid/noticias/010",
+      "is_relevant": true,
+      "sentiment": "neutral",
+      "entities": [
+        {
+          "entity_text": "Universidad del Valle Claro",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "El informe contabiliza 860 ingresantes en cinco carreras.",
+        "El documento incluye series por cohorte."
+      ]
+    },
+    {
+      "news_id": "CU01-011",
+      "url": "https://caso01.example.invalid/noticias/011",
+      "is_relevant": true,
+      "sentiment": "positive",
+      "entities": [
+        {
+          "entity_text": "Universidad del Valle Claro",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "El nuevo servicio ofrece apoyo gratuito y fue bien recibido por ingresantes.",
+        "Habrá 12 tutores durante el semestre."
+      ]
+    },
+    {
+      "news_id": "CU01-012",
+      "url": "https://caso01.example.invalid/noticias/012",
+      "is_relevant": true,
+      "sentiment": "positive",
+      "entities": [
+        {
+          "entity_text": "Universidad del Valle Claro",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "La entrega de kits alivió los gastos de 90 estudiantes.",
+        "Los kits incluyen cuadernos y elementos de práctica."
+      ]
+    },
+    {
+      "news_id": "CU01-013",
+      "url": "https://caso01.example.invalid/noticias/013",
+      "is_relevant": true,
+      "sentiment": "positive",
+      "entities": [
+        {
+          "entity_text": "Universidad del Valle Claro",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "El aporte permitirá equipar dos grupos y fue celebrado por investigadores.",
+        "La ejecución del proyecto durará 18 meses."
+      ]
+    },
+    {
+      "news_id": "CU01-014",
+      "url": "https://caso01.example.invalid/noticias/014",
+      "is_relevant": true,
+      "sentiment": "negative",
+      "entities": [
+        {
+          "entity_text": "Universidad del Valle Claro",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "La reducción provocó largas filas y quejas de estudiantes.",
+        "La ventanilla abrirá solo tres horas diarias."
+      ]
+    },
+    {
+      "news_id": "CU01-015",
+      "url": "https://caso01.example.invalid/noticias/015",
+      "is_relevant": true,
+      "sentiment": "negative",
+      "entities": [
+        {
+          "entity_text": "Universidad del Valle Claro",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "La cancelación dejó a 65 inscriptos sin la actividad prevista.",
+        "Los responsables no anunciaron una fecha alternativa."
+      ]
+    },
+    {
+      "news_id": "CU01-016",
+      "url": "https://caso01.example.invalid/noticias/016",
+      "is_relevant": true,
+      "sentiment": "negative",
+      "entities": [
+        {
+          "entity_text": "Instituto Horizonte Austral",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "Los errores impidieron completar trámites y causaron frustración.",
+        "El incidente afectó a 110 solicitudes."
+      ]
+    },
+    {
+      "news_id": "CU01-017",
+      "url": "https://caso01.example.invalid/noticias/017",
+      "is_relevant": true,
+      "sentiment": "neutral",
+      "entities": [
+        {
+          "entity_text": "Instituto Horizonte Austral",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "Se programaron seis encuentros con modalidad presencial.",
+        "Las inscripciones se harán mediante un formulario."
+      ]
+    },
+    {
+      "news_id": "CU01-018",
+      "url": "https://caso01.example.invalid/noticias/018",
+      "is_relevant": true,
+      "sentiment": "neutral",
+      "entities": [
+        {
+          "entity_text": "Instituto Horizonte Austral",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "El texto establece requisitos de asistencia y presentación de informes.",
+        "La aplicación comienza el próximo semestre."
+      ]
+    },
+    {
+      "news_id": "CU01-019",
+      "url": "https://caso01.example.invalid/noticias/019",
+      "is_relevant": true,
+      "sentiment": "positive",
+      "entities": [
+        {
+          "entity_text": "Instituto Horizonte Austral",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "La actividad permitió ofrecer asesoramiento gratuito a 150 vecinos.",
+        "Participaron equipos de tres carreras."
+      ]
+    },
+    {
+      "news_id": "CU01-020",
+      "url": "https://caso01.example.invalid/noticias/020",
+      "is_relevant": true,
+      "sentiment": "positive",
+      "entities": [
+        {
+          "entity_text": "Instituto Horizonte Austral",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "La instalación de rampas y señalética mejoró la circulación de estudiantes.",
+        "El edificio dispone ahora de dos accesos adaptados."
+      ]
+    },
+    {
+      "news_id": "CU01-021",
+      "url": "https://caso01.example.invalid/noticias/021",
+      "is_relevant": true,
+      "sentiment": "positive",
+      "entities": [
+        {
+          "entity_text": "Instituto Horizonte Austral",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "Cinco equipos recibieron distinciones por soluciones comunitarias.",
+        "La ceremonia se realizó en el auditorio central."
+      ]
+    },
+    {
+      "news_id": "CU01-022",
+      "url": "https://caso01.example.invalid/noticias/022",
+      "is_relevant": true,
+      "sentiment": "negative",
+      "entities": [
+        {
+          "entity_text": "Instituto Horizonte Austral",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "El cierre temporal dejó a cientos de estudiantes sin el servicio habitual.",
+        "La reparación prevista llevará cinco días."
+      ]
+    },
+    {
+      "news_id": "CU01-023",
+      "url": "https://caso01.example.invalid/noticias/023",
+      "is_relevant": true,
+      "sentiment": "negative",
+      "entities": [
+        {
+          "entity_text": "Instituto Horizonte Austral",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "Una inspección reveló problemas de humedad que preocupan a residentes.",
+        "Se registraron daños en ocho habitaciones."
+      ]
+    },
+    {
+      "news_id": "CU01-024",
+      "url": "https://caso01.example.invalid/noticias/024",
+      "is_relevant": true,
+      "sentiment": "negative",
+      "entities": [
+        {
+          "entity_text": "Instituto Horizonte Austral",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "Las demoras impidieron a egresados completar trámites laborales.",
+        "La mesa de entradas contabilizó 34 reclamos."
+      ]
+    },
+    {
+      "news_id": "CU01-025",
+      "url": "https://caso01.example.invalid/noticias/025",
+      "is_relevant": true,
+      "sentiment": "neutral",
+      "entities": [
+        {
+          "entity_text": "Fundación Puente Abierto",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "El encuentro se realizará el 22 de junio y tendrá dos paneles.",
+        "El acceso requiere inscripción previa."
+      ]
+    },
+    {
+      "news_id": "CU01-026",
+      "url": "https://caso01.example.invalid/noticias/026",
+      "is_relevant": true,
+      "sentiment": "neutral",
+      "entities": [
+        {
+          "entity_text": "Fundación Puente Abierto",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "El documento enumera documentación y plazos para aspirantes.",
+        "La recepción de formularios comienza en agosto."
+      ]
+    },
+    {
+      "news_id": "CU01-027",
+      "url": "https://caso01.example.invalid/noticias/027",
+      "is_relevant": true,
+      "sentiment": "positive",
+      "entities": [
+        {
+          "entity_text": "Fundación Puente Abierto",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "El convenio permitirá a 40 estudiantes realizar intercambios sin arancel.",
+        "Las postulaciones se abrirán durante julio."
+      ]
+    },
+    {
+      "news_id": "CU01-028",
+      "url": "https://caso01.example.invalid/noticias/028",
+      "is_relevant": true,
+      "sentiment": "negative",
+      "entities": [
+        {
+          "entity_text": "Fundación Puente Abierto",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "La reducción de recursos amenaza la continuidad de tres talleres.",
+        "Los docentes solicitaron una revisión presupuestaria."
+      ]
+    },
+    {
+      "news_id": "CU01-029",
+      "url": "https://caso01.example.invalid/noticias/029",
+      "is_relevant": true,
+      "sentiment": "neutral",
+      "entities": [
+        {
+          "entity_text": "Fundación Puente Abierto",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "La feria tendrá lugar de 9 a 17 en el pabellón central.",
+        "Se asignaron 24 espacios de exposición."
+      ]
+    },
+    {
+      "news_id": "CU01-030",
+      "url": "https://caso01.example.invalid/noticias/030",
+      "is_relevant": true,
+      "sentiment": "neutral",
+      "entities": [
+        {
+          "entity_text": "Fundación Puente Abierto",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "El relevamiento técnico comprende seis aulas y registra el estado de los equipos.",
+        "El informe se publicará el viernes."
+      ]
+    },
+    {
+      "news_id": "CU01-031",
+      "url": "https://caso01.example.invalid/noticias/031",
+      "is_relevant": false,
+      "sentiment": "positive",
+      "entities": [],
+      "key_facts": [
+        "La venta de productos locales fue un éxito y los expositores celebraron la concurrencia.",
+        "Hubo 45 puestos de venta."
+      ]
+    },
+    {
+      "news_id": "CU01-032",
+      "url": "https://caso01.example.invalid/noticias/032",
+      "is_relevant": false,
+      "sentiment": "negative",
+      "entities": [],
+      "key_facts": [
+        "La cancelación decepcionó a familias y comerciantes.",
+        "La actividad se reprogramará cuando mejore el tiempo."
+      ]
+    },
+    {
+      "news_id": "CU01-033",
+      "url": "https://caso01.example.invalid/noticias/033",
+      "is_relevant": false,
+      "sentiment": "neutral",
+      "entities": [],
+      "key_facts": [
+        "El torneo tendrá ocho fechas y dos divisiones.",
+        "La primera jornada se disputará el domingo."
+      ]
+    },
+    {
+      "news_id": "CU01-034",
+      "url": "https://caso01.example.invalid/noticias/034",
+      "is_relevant": false,
+      "sentiment": "positive",
+      "entities": [],
+      "key_facts": [
+        "La renovación del parque alegró a vecinos y mejoró el acceso recreativo.",
+        "Se colocaron 12 bancos."
+      ]
+    },
+    {
+      "news_id": "CU01-035",
+      "url": "https://caso01.example.invalid/noticias/035",
+      "is_relevant": false,
+      "sentiment": "negative",
+      "entities": [],
+      "key_facts": [
+        "Los comerciantes lamentaron los daños en sus puestos.",
+        "Se relevaron nueve locales afectados."
+      ]
+    },
+    {
+      "news_id": "CU01-036",
+      "url": "https://caso01.example.invalid/noticias/036",
+      "is_relevant": false,
+      "sentiment": "neutral",
+      "entities": [],
+      "key_facts": [
+        "La exposición tendrá 32 obras y entrada libre.",
+        "Se inaugurará el viernes."
+      ]
+    },
+    {
+      "news_id": "CU01-037",
+      "url": "https://caso01.example.invalid/noticias/037",
+      "is_relevant": false,
+      "sentiment": "positive",
+      "entities": [],
+      "key_facts": [
+        "El reconocimiento fue recibido con alegría por el equipo de cocineros.",
+        "Participaron 18 propuestas."
+      ]
+    },
+    {
+      "news_id": "CU01-038",
+      "url": "https://caso01.example.invalid/noticias/038",
+      "is_relevant": false,
+      "sentiment": "negative",
+      "entities": [],
+      "key_facts": [
+        "El deterioro obligó a cancelar partidos y generó quejas.",
+        "La reparación llevará una semana."
+      ]
+    },
+    {
+      "news_id": "CU01-039",
+      "url": "https://caso01.example.invalid/noticias/039",
+      "is_relevant": false,
+      "sentiment": "neutral",
+      "entities": [],
+      "key_facts": [
+        "Tres líneas modificarán sus paradas durante el fin de semana.",
+        "Los recorridos alternativos están publicados."
+      ]
+    },
+    {
+      "news_id": "CU01-040",
+      "url": "https://caso01.example.invalid/noticias/040",
+      "is_relevant": false,
+      "sentiment": "positive",
+      "entities": [],
+      "key_facts": [
+        "El nuevo espacio cultural entusiasmó al público local.",
+        "La capacidad es de 90 espectadores."
+      ]
+    },
+    {
+      "news_id": "CU01-041",
+      "url": "https://caso01.example.invalid/noticias/041",
+      "is_relevant": false,
+      "sentiment": "negative",
+      "entities": [],
+      "key_facts": [
+        "Los vecinos expresaron malestar por las molestias nocturnas.",
+        "Se presentaron 22 denuncias."
+      ]
+    },
+    {
+      "news_id": "CU01-042",
+      "url": "https://caso01.example.invalid/noticias/042",
+      "is_relevant": false,
+      "sentiment": "neutral",
+      "entities": [],
+      "key_facts": [
+        "La exhibición incluye 28 piezas de elaboración artesanal.",
+        "La muestra durará diez días."
+      ]
+    },
+    {
+      "news_id": "CU01-043",
+      "url": "https://caso01.example.invalid/noticias/043",
+      "is_relevant": false,
+      "sentiment": "positive",
+      "entities": [],
+      "key_facts": [
+        "La jornada permitió encontrar hogares para 14 animales y fue muy bien recibida.",
+        "Participaron voluntarios de varios barrios."
+      ]
+    },
+    {
+      "news_id": "CU01-044",
+      "url": "https://caso01.example.invalid/noticias/044",
+      "is_relevant": false,
+      "sentiment": "negative",
+      "entities": [],
+      "key_facts": [
+        "La suspensión frustró a los participantes inscriptos.",
+        "El circuito quedó intransitable."
+      ]
+    },
+    {
+      "news_id": "CU01-045",
+      "url": "https://caso01.example.invalid/noticias/045",
+      "is_relevant": false,
+      "sentiment": "neutral",
+      "entities": [],
+      "key_facts": [
+        "El establecimiento abrirá de martes a domingo.",
+        "La entrada general se vende en boletería."
+      ]
+    },
+    {
+      "news_id": "CU01-046",
+      "url": "https://caso01.example.invalid/noticias/046",
+      "is_relevant": false,
+      "sentiment": "positive",
+      "entities": [],
+      "key_facts": [
+        "La actividad recibió elogios por su carácter participativo.",
+        "Asistieron 25 personas."
+      ]
+    },
+    {
+      "news_id": "CU01-047",
+      "url": "https://caso01.example.invalid/noticias/047",
+      "is_relevant": false,
+      "sentiment": "negative",
+      "entities": [],
+      "key_facts": [
+        "La rotura de juegos infantiles generó preocupación entre familias.",
+        "Se colocaron vallas preventivas."
+      ]
+    },
+    {
+      "news_id": "CU01-048",
+      "url": "https://caso01.example.invalid/noticias/048",
+      "is_relevant": false,
+      "sentiment": "neutral",
+      "entities": [],
+      "key_facts": [
+        "La proyección comenzará a las 20 y durará 95 minutos.",
+        "Las localidades se retiran en la entrada."
+      ]
+    },
+    {
+      "news_id": "CU01-049",
+      "url": "https://caso01.example.invalid/noticias/049",
+      "is_relevant": false,
+      "sentiment": "positive",
+      "entities": [],
+      "key_facts": [
+        "Los músicos agradecieron el entusiasmo de los asistentes.",
+        "La función reunió a 400 personas."
+      ]
+    },
+    {
+      "news_id": "CU01-050",
+      "url": "https://caso01.example.invalid/noticias/050",
+      "is_relevant": false,
+      "sentiment": "neutral",
+      "entities": [],
+      "key_facts": [
+        "El equipo visitante ganó por dos tantos a uno en un encuentro barrial sin vínculo institucional con centros de enseñanza.",
+        "La próxima fecha se disputará el sábado."
+      ]
+    }
+  ]
+}

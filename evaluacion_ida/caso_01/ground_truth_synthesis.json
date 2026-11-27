@@ -1,0 +1,54 @@
+{
+  "queries": [
+    {
+      "id": "S01",
+      "query": "Resumí la noticia sobre ampliación de becas de transporte, incluyendo su fuente original.",
+      "expected": [
+        {
+          "url": "https://caso01.example.invalid/noticias/001",
+          "fact": "La ampliación a 240 becas fue celebrada por estudiantes que podrán continuar sus estudios."
+        },
+        {
+          "url": "https://caso01.example.invalid/noticias/001",
+          "fact": "La convocatoria abre el 12 de abril y cubre tres meses de transporte."
+        }
+      ]
+    },
+    {
+      "id": "S02",
+      "query": "¿Cuáles son las principales novedades sobre actividad universitaria, específicamente becas de transporte, reapertura de biblioteca nocturna y mejora de laboratorios?",
+      "expected": [
+        {
+          "url": "https://caso01.example.invalid/noticias/001",
+          "fact": "La ampliación a 240 becas fue celebrada por estudiantes que podrán continuar sus estudios."
+        },
+        {
+          "url": "https://caso01.example.invalid/noticias/002",
+          "fact": "La comunidad recibió con entusiasmo la extensión del horario hasta las 23."
+        },
+        {
+          "url": "https://caso01.example.invalid/noticias/003",
+          "fact": "La renovación de equipos beneficia a 120 estudiantes y reduce las esperas."
+        }
+      ]
+    },
+    {
+      "id": "S03",
+      "query": "Elaborá un boletín informativo sobre actividad universitaria, centrado en becas de transporte, reapertura de biblioteca nocturna y mejora de laboratorios, incluyendo las fuentes originales.",
+      "expected": [
+        {
+          "url": "https://caso01.example.invalid/noticias/001",
+          "fact": "La ampliación a 240 becas fue celebrada por estudiantes que podrán continuar sus estudios."
+        },
+        {
+          "url": "https://caso01.example.invalid/noticias/002",
+          "fact": "La comunidad recibió con entusiasmo la extensión del horario hasta las 23."
+        },
+        {
+          "url": "https://caso01.example.invalid/noticias/003",
+          "fact": "La renovación de equipos beneficia a 120 estudiantes y reduce las esperas."
+        }
+      ]
+    }
+  ]
+}

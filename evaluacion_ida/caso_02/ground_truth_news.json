@@ -1,0 +1,706 @@
+{
+  "topic": "sector_energetico_argentino",
+  "source_name": "Medio Sintético 02",
+  "news": [
+    {
+      "news_id": "CU02-001",
+      "url": "https://caso02.example.invalid/noticias/001",
+      "is_relevant": true,
+      "sentiment": "positive",
+      "entities": [
+        {
+          "entity_text": "Energía Costa Serena",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "La puesta en marcha de 24 MW adicionales fue celebrada por su aporte al suministro eléctrico argentino.",
+        "El parque se conectó a la red nacional el 12 de abril."
+      ]
+    },
+    {
+      "news_id": "CU02-002",
+      "url": "https://caso02.example.invalid/noticias/002",
+      "is_relevant": true,
+      "sentiment": "positive",
+      "entities": [
+        {
+          "entity_text": "Energía Costa Serena",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "La mejora del servicio benefició a 800 hogares y recibió una valoración favorable.",
+        "Se reemplazaron cuatro transformadores de distribución."
+      ]
+    },
+    {
+      "news_id": "CU02-003",
+      "url": "https://caso02.example.invalid/noticias/003",
+      "is_relevant": true,
+      "sentiment": "positive",
+      "entities": [
+        {
+          "entity_text": "Energía Costa Serena",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "La reparación permitió recuperar 18 MW y reforzó la disponibilidad de energía.",
+        "El equipo volvió a operar tras dos semanas de mantenimiento."
+      ]
+    },
+    {
+      "news_id": "CU02-004",
+      "url": "https://caso02.example.invalid/noticias/004",
+      "is_relevant": true,
+      "sentiment": "negative",
+      "entities": [
+        {
+          "entity_text": "Energía Costa Serena",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "El corte afectó a 1200 usuarios y generó reclamos por pérdidas de alimentos.",
+        "La interrupción duró seis horas."
+      ]
+    },
+    {
+      "news_id": "CU02-005",
+      "url": "https://caso02.example.invalid/noticias/005",
+      "is_relevant": true,
+      "sentiment": "negative",
+      "entities": [
+        {
+          "entity_text": "Energía Costa Serena",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "El retraso de tres meses agravó la incertidumbre de usuarios industriales.",
+        "El proyecto comprende 42 kilómetros de líneas."
+      ]
+    },
+    {
+      "news_id": "CU02-006",
+      "url": "https://caso02.example.invalid/noticias/006",
+      "is_relevant": true,
+      "sentiment": "negative",
+      "entities": [
+        {
+          "entity_text": "Energía Costa Serena",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "El incidente provocó daños ambientales y preocupación entre trabajadores.",
+        "Se suspendió la operación de dos depósitos."
+      ]
+    },
+    {
+      "news_id": "CU02-007",
+      "url": "https://caso02.example.invalid/noticias/007",
+      "is_relevant": true,
+      "sentiment": "neutral",
+      "entities": [
+        {
+          "entity_text": "Energía Costa Serena",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "El cronograma prevé inspecciones en cinco estaciones del sistema eléctrico argentino.",
+        "Los trabajos se distribuyen durante junio."
+      ]
+    },
+    {
+      "news_id": "CU02-008",
+      "url": "https://caso02.example.invalid/noticias/008",
+      "is_relevant": true,
+      "sentiment": "neutral",
+      "entities": [
+        {
+          "entity_text": "Energía Costa Serena",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "El reporte contabiliza 310 GWh de electricidad producida.",
+        "La cifra corresponde al mes de marzo."
+      ]
+    },
+    {
+      "news_id": "CU02-009",
+      "url": "https://caso02.example.invalid/noticias/009",
+      "is_relevant": true,
+      "sentiment": "neutral",
+      "entities": [
+        {
+          "entity_text": "Energía Costa Serena",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "El expediente contempla incorporar una instalación de 12 MW a la red.",
+        "La revisión técnica se realizará en mayo."
+      ]
+    },
+    {
+      "news_id": "CU02-010",
+      "url": "https://caso02.example.invalid/noticias/010",
+      "is_relevant": true,
+      "sentiment": "neutral",
+      "entities": [
+        {
+          "entity_text": "Energía Costa Serena",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "La convocatoria fija una audiencia pública para el 18 de mayo.",
+        "El registro de participantes abre una semana antes."
+      ]
+    },
+    {
+      "news_id": "CU02-011",
+      "url": "https://caso02.example.invalid/noticias/011",
+      "is_relevant": true,
+      "sentiment": "positive",
+      "entities": [
+        {
+          "entity_text": "Energía Costa Serena",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "La instalación benefició a 600 hogares y facilitó el seguimiento del consumo.",
+        "Los dispositivos registran lecturas cada hora."
+      ]
+    },
+    {
+      "news_id": "CU02-012",
+      "url": "https://caso02.example.invalid/noticias/012",
+      "is_relevant": true,
+      "sentiment": "positive",
+      "entities": [
+        {
+          "entity_text": "Energía Costa Serena",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "La modernización redujo el consumo de combustible y fue valorada por los técnicos.",
+        "Dos unidades recibieron nuevos sistemas de control."
+      ]
+    },
+    {
+      "news_id": "CU02-013",
+      "url": "https://caso02.example.invalid/noticias/013",
+      "is_relevant": true,
+      "sentiment": "positive",
+      "entities": [
+        {
+          "entity_text": "Energía Costa Serena",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "La batería de 8 MWh mejora la estabilidad del suministro y fue recibida favorablemente.",
+        "El sistema opera junto a una instalación renovable."
+      ]
+    },
+    {
+      "news_id": "CU02-014",
+      "url": "https://caso02.example.invalid/noticias/014",
+      "is_relevant": true,
+      "sentiment": "negative",
+      "entities": [
+        {
+          "entity_text": "Energía Costa Serena",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "La interrupción redujo el abastecimiento y perjudicó a usuarios industriales.",
+        "Se restringió el caudal durante 36 horas."
+      ]
+    },
+    {
+      "news_id": "CU02-015",
+      "url": "https://caso02.example.invalid/noticias/015",
+      "is_relevant": true,
+      "sentiment": "negative",
+      "entities": [
+        {
+          "entity_text": "Energía Costa Serena",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "El informe señala un riesgo creciente de interrupciones y genera preocupación.",
+        "Se identificaron siete tramos con daños."
+      ]
+    },
+    {
+      "news_id": "CU02-016",
+      "url": "https://caso02.example.invalid/noticias/016",
+      "is_relevant": true,
+      "sentiment": "negative",
+      "entities": [
+        {
+          "entity_text": "Red Federal del Sur",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "La paralización dejó a 70 trabajadores sin tareas y retrasó nueva capacidad.",
+        "El proyecto contemplaba nueve aerogeneradores."
+      ]
+    },
+    {
+      "news_id": "CU02-017",
+      "url": "https://caso02.example.invalid/noticias/017",
+      "is_relevant": true,
+      "sentiment": "neutral",
+      "entities": [
+        {
+          "entity_text": "Red Federal del Sur",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "El registro informa una demanda de 420 GWh en el período.",
+        "El informe distingue usuarios residenciales e industriales."
+      ]
+    },
+    {
+      "news_id": "CU02-018",
+      "url": "https://caso02.example.invalid/noticias/018",
+      "is_relevant": true,
+      "sentiment": "neutral",
+      "entities": [
+        {
+          "entity_text": "Red Federal del Sur",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "La programación fija visitas a ocho instalaciones energéticas.",
+        "Las fechas se distribuyen entre mayo y julio."
+      ]
+    },
+    {
+      "news_id": "CU02-019",
+      "url": "https://caso02.example.invalid/noticias/019",
+      "is_relevant": true,
+      "sentiment": "positive",
+      "entities": [
+        {
+          "entity_text": "Red Federal del Sur",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "La conexión de 130 hogares fue celebrada por las comunidades beneficiadas.",
+        "Se instalaron 16 kilómetros de líneas."
+      ]
+    },
+    {
+      "news_id": "CU02-020",
+      "url": "https://caso02.example.invalid/noticias/020",
+      "is_relevant": true,
+      "sentiment": "positive",
+      "entities": [
+        {
+          "entity_text": "Red Federal del Sur",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "La incorporación de repuestos redujo las demoras y mejoró la continuidad del servicio.",
+        "Se adquirieron 20 componentes de protección."
+      ]
+    },
+    {
+      "news_id": "CU02-021",
+      "url": "https://caso02.example.invalid/noticias/021",
+      "is_relevant": true,
+      "sentiment": "positive",
+      "entities": [
+        {
+          "entity_text": "Red Federal del Sur",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "El programa fortaleció las habilidades de 45 operarios y recibió buenas evaluaciones.",
+        "La formación incluyó prácticas de seguridad."
+      ]
+    },
+    {
+      "news_id": "CU02-022",
+      "url": "https://caso02.example.invalid/noticias/022",
+      "is_relevant": true,
+      "sentiment": "negative",
+      "entities": [
+        {
+          "entity_text": "Red Federal del Sur",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "Los errores en boletas causaron perjuicios y malestar entre usuarios.",
+        "Se recibieron 92 solicitudes de rectificación."
+      ]
+    },
+    {
+      "news_id": "CU02-023",
+      "url": "https://caso02.example.invalid/noticias/023",
+      "is_relevant": true,
+      "sentiment": "negative",
+      "entities": [
+        {
+          "entity_text": "Red Federal del Sur",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "La fuga obligó a interrumpir el suministro y alarmó a los vecinos.",
+        "Se aisló un tramo de la instalación."
+      ]
+    },
+    {
+      "news_id": "CU02-024",
+      "url": "https://caso02.example.invalid/noticias/024",
+      "is_relevant": true,
+      "sentiment": "negative",
+      "entities": [
+        {
+          "entity_text": "Red Federal del Sur",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "La caída de postes dejó sin electricidad a 350 hogares y causó dificultades.",
+        "Los equipos reparan seis estructuras."
+      ]
+    },
+    {
+      "news_id": "CU02-025",
+      "url": "https://caso02.example.invalid/noticias/025",
+      "is_relevant": true,
+      "sentiment": "neutral",
+      "entities": [
+        {
+          "entity_text": "Cooperativa Luz del Monte",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "El pliego incluye la compra de 15 interruptores de alta tensión.",
+        "Las ofertas se recibirán hasta el 30 de junio."
+      ]
+    },
+    {
+      "news_id": "CU02-026",
+      "url": "https://caso02.example.invalid/noticias/026",
+      "is_relevant": true,
+      "sentiment": "neutral",
+      "entities": [
+        {
+          "entity_text": "Cooperativa Luz del Monte",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "El informe registra 28 millones de metros cúbicos durante el período.",
+        "La serie se organiza por unidad operativa."
+      ]
+    },
+    {
+      "news_id": "CU02-027",
+      "url": "https://caso02.example.invalid/noticias/027",
+      "is_relevant": true,
+      "sentiment": "positive",
+      "entities": [
+        {
+          "entity_text": "Cooperativa Luz del Monte",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "La mejora del 4 por ciento fue celebrada por el equipo de operación.",
+        "El resultado se obtuvo tras ajustar la red de distribución."
+      ]
+    },
+    {
+      "news_id": "CU02-028",
+      "url": "https://caso02.example.invalid/noticias/028",
+      "is_relevant": true,
+      "sentiment": "negative",
+      "entities": [
+        {
+          "entity_text": "Cooperativa Luz del Monte",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "Los daños retrasaron el restablecimiento del servicio y provocaron preocupación.",
+        "Se afectaron dos gabinetes de control."
+      ]
+    },
+    {
+      "news_id": "CU02-029",
+      "url": "https://caso02.example.invalid/noticias/029",
+      "is_relevant": true,
+      "sentiment": "neutral",
+      "entities": [
+        {
+          "entity_text": "Cooperativa Luz del Monte",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "La reunión sobre planificación de la red tendrá dos sesiones.",
+        "Se realizará el 22 de junio."
+      ]
+    },
+    {
+      "news_id": "CU02-030",
+      "url": "https://caso02.example.invalid/noticias/030",
+      "is_relevant": true,
+      "sentiment": "neutral",
+      "entities": [
+        {
+          "entity_text": "Cooperativa Luz del Monte",
+          "entity_type": "organization"
+        }
+      ],
+      "key_facts": [
+        "El cronograma prevé retirar temporalmente 15 MW por mantenimiento preventivo.",
+        "Una unidad quedará fuera de servicio durante la inspección."
+      ]
+    },
+    {
+      "news_id": "CU02-031",
+      "url": "https://caso02.example.invalid/noticias/031",
+      "is_relevant": false,
+      "sentiment": "positive",
+      "entities": [],
+      "key_facts": [
+        "La venta de productos locales fue un éxito y los expositores celebraron la concurrencia.",
+        "Hubo 45 puestos de venta."
+      ]
+    },
+    {
+      "news_id": "CU02-032",
+      "url": "https://caso02.example.invalid/noticias/032",
+      "is_relevant": false,
+      "sentiment": "negative",
+      "entities": [],
+      "key_facts": [
+        "La cancelación decepcionó a familias y comerciantes.",
+        "La actividad se reprogramará cuando mejore el tiempo."
+      ]
+    },
+    {
+      "news_id": "CU02-033",
+      "url": "https://caso02.example.invalid/noticias/033",
+      "is_relevant": false,
+      "sentiment": "neutral",
+      "entities": [],
+      "key_facts": [
+        "El torneo tendrá ocho fechas y dos divisiones.",
+        "La primera jornada se disputará el domingo."
+      ]
+    },
+    {
+      "news_id": "CU02-034",
+      "url": "https://caso02.example.invalid/noticias/034",
+      "is_relevant": false,
+      "sentiment": "positive",
+      "entities": [],
+      "key_facts": [
+        "La renovación del parque alegró a vecinos y mejoró el acceso recreativo.",
+        "Se colocaron 12 bancos."
+      ]
+    },
+    {
+      "news_id": "CU02-035",
+      "url": "https://caso02.example.invalid/noticias/035",
+      "is_relevant": false,
+      "sentiment": "negative",
+      "entities": [],
+      "key_facts": [
+        "Los comerciantes lamentaron los daños en sus puestos.",
+        "Se relevaron nueve locales afectados."
+      ]
+    },
+    {
+      "news_id": "CU02-036",
+      "url": "https://caso02.example.invalid/noticias/036",
+      "is_relevant": false,
+      "sentiment": "neutral",
+      "entities": [],
+      "key_facts": [
+        "La exposición tendrá 32 obras y entrada libre.",
+        "Se inaugurará el viernes."
+      ]
+    },
+    {
+      "news_id": "CU02-037",
+      "url": "https://caso02.example.invalid/noticias/037",
+      "is_relevant": false,
+      "sentiment": "positive",
+      "entities": [],
+      "key_facts": [
+        "El reconocimiento fue recibido con alegría por el equipo de cocineros.",
+        "Participaron 18 propuestas."
+      ]
+    },
+    {
+      "news_id": "CU02-038",
+      "url": "https://caso02.example.invalid/noticias/038",
+      "is_relevant": false,
+      "sentiment": "negative",
+      "entities": [],
+      "key_facts": [
+        "El deterioro obligó a cancelar partidos y generó quejas.",
+        "La reparación llevará una semana."
+      ]
+    },
+    {
+      "news_id": "CU02-039",
+      "url": "https://caso02.example.invalid/noticias/039",
+      "is_relevant": false,
+      "sentiment": "neutral",
+      "entities": [],
+      "key_facts": [
+        "Tres líneas modificarán sus paradas durante el fin de semana.",
+        "Los recorridos alternativos están publicados."
+      ]
+    },
+    {
+      "news_id": "CU02-040",
+      "url": "https://caso02.example.invalid/noticias/040",
+      "is_relevant": false,
+      "sentiment": "positive",
+      "entities": [],
+      "key_facts": [
+        "El nuevo espacio cultural entusiasmó al público local.",
+        "La capacidad es de 90 espectadores."
+      ]
+    },
+    {
+      "news_id": "CU02-041",
+      "url": "https://caso02.example.invalid/noticias/041",
+      "is_relevant": false,
+      "sentiment": "negative",
+      "entities": [],
+      "key_facts": [
+        "Los vecinos expresaron malestar por las molestias nocturnas.",
+        "Se presentaron 22 denuncias."
+      ]
+    },
+    {
+      "news_id": "CU02-042",
+      "url": "https://caso02.example.invalid/noticias/042",
+      "is_relevant": false,
+      "sentiment": "neutral",
+      "entities": [],
+      "key_facts": [
+        "La exhibición incluye 28 piezas de elaboración artesanal.",
+        "La muestra durará diez días."
+      ]
+    },
+    {
+      "news_id": "CU02-043",
+      "url": "https://caso02.example.invalid/noticias/043",
+      "is_relevant": false,
+      "sentiment": "positive",
+      "entities": [],
+      "key_facts": [
+        "La jornada permitió encontrar hogares para 14 animales y fue muy bien recibida.",
+        "Participaron voluntarios de varios barrios."
+      ]
+    },
+    {
+      "news_id": "CU02-044",
+      "url": "https://caso02.example.invalid/noticias/044",
+      "is_relevant": false,
+      "sentiment": "negative",
+      "entities": [],
+      "key_facts": [
+        "La suspensión frustró a los participantes inscriptos.",
+        "El circuito quedó intransitable."
+      ]
+    },
+    {
+      "news_id": "CU02-045",
+      "url": "https://caso02.example.invalid/noticias/045",
+      "is_relevant": false,
+      "sentiment": "neutral",
+      "entities": [],
+      "key_facts": [
+        "El establecimiento abrirá de martes a domingo.",
+        "La entrada general se vende en boletería."
+      ]
+    },
+    {
+      "news_id": "CU02-046",
+      "url": "https://caso02.example.invalid/noticias/046",
+      "is_relevant": false,
+      "sentiment": "positive",
+      "entities": [],
+      "key_facts": [
+        "La actividad recibió elogios por su carácter participativo.",
+        "Asistieron 25 personas."
+      ]
+    },
+    {
+      "news_id": "CU02-047",
+      "url": "https://caso02.example.invalid/noticias/047",
+      "is_relevant": false,
+      "sentiment": "negative",
+      "entities": [],
+      "key_facts": [
+        "La rotura de juegos infantiles generó preocupación entre familias.",
+        "Se colocaron vallas preventivas."
+      ]
+    },
+    {
+      "news_id": "CU02-048",
+      "url": "https://caso02.example.invalid/noticias/048",
+      "is_relevant": false,
+      "sentiment": "neutral",
+      "entities": [],
+      "key_facts": [
+        "La proyección comenzará a las 20 y durará 95 minutos.",
+        "Las localidades se retiran en la entrada."
+      ]
+    },
+    {
+      "news_id": "CU02-049",
+      "url": "https://caso02.example.invalid/noticias/049",
+      "is_relevant": false,
+      "sentiment": "positive",
+      "entities": [],
+      "key_facts": [
+        "Los músicos agradecieron el entusiasmo de los asistentes.",
+        "La función reunió a 400 personas."
+      ]
+    },
+    {
+      "news_id": "CU02-050",
+      "url": "https://caso02.example.invalid/noticias/050",
+      "is_relevant": false,
+      "sentiment": "neutral",
+      "entities": [],
+      "key_facts": [
+        "El equipo visitante ganó por dos tantos a uno en un encuentro barrial sin vínculo institucional con centros de enseñanza.",
+        "La próxima fecha se disputará el sábado."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,659 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Medio Sintético 02</title>
+    <link>https://caso02.example.invalid</link>
+    <description>Corpus ficticio de evaluación</description>
+    <language>es</language>
+    <item>
+      <title>Energía Costa Serena: amplía la generación solar</title>
+      <description>La puesta en marcha de 24 MW adicionales fue celebrada por su aporte al suministro eléctrico argentino.</description>
+      <link>https://caso02.example.invalid/noticias/001</link>
+      <guid>CU02-001</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Wed, 01 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>La puesta en marcha de 24 MW adicionales fue celebrada por su aporte al suministro eléctrico argentino. El parque se conectó a la red nacional el 12 de abril.
+
+La incorporación de potencia solar permite aprovechar la radiación disponible para producir electricidad sin recurrir a la combustión durante la generación. La conexión a la red es un paso esencial para que esa producción pueda integrarse al sistema. La ampliación representa una mejora de la capacidad instalada, aunque la energía efectivamente entregada depende de las condiciones de operación y de la disponibilidad del recurso solar.
+
+La cifra anunciada se expresa en megavatios, una unidad de potencia, y no constituye una medición de la energía acumulada durante el mes. La fecha de conexión identifica el momento en que la ampliación se incorporó a la red. Ambos datos permiten describir el avance sin confundir capacidad de generación con producción efectiva.</content:encoded>
+    </item>
+    <item>
+      <title>Energía Costa Serena: reduce interrupciones eléctricas</title>
+      <description>La mejora del servicio benefició a 800 hogares y recibió una valoración favorable.</description>
+      <link>https://caso02.example.invalid/noticias/002</link>
+      <guid>CU02-002</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Thu, 02 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>La mejora del servicio benefició a 800 hogares y recibió una valoración favorable. Se reemplazaron cuatro transformadores de distribución.
+
+Los transformadores de distribución son elementos fundamentales para adecuar la tensión eléctrica a las necesidades de los usuarios. Su renovación ayuda a reducir problemas asociados con equipos que no responden adecuadamente a las exigencias del servicio. Para los hogares beneficiados, la mayor continuidad del suministro facilita el desarrollo de actividades domésticas y reduce las dificultades que generan las interrupciones frecuentes.
+
+La cantidad de hogares beneficiados permite dimensionar el alcance de la intervención desde la perspectiva de los usuarios. Por su parte, el reemplazo de transformadores describe la tarea realizada sobre la infraestructura. Los datos corresponden a la mejora comunicada y no permiten calcular una tasa general de interrupciones para todo el sistema eléctrico.</content:encoded>
+    </item>
+    <item>
+      <title>Energía Costa Serena: recupera capacidad de una central</title>
+      <description>La reparación permitió recuperar 18 MW y reforzó la disponibilidad de energía.</description>
+      <link>https://caso02.example.invalid/noticias/003</link>
+      <guid>CU02-003</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Fri, 03 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>La reparación permitió recuperar 18 MW y reforzó la disponibilidad de energía. El equipo volvió a operar tras dos semanas de mantenimiento.
+
+Las centrales necesitan intervenciones periódicas para conservar sus equipos y mantener condiciones adecuadas de funcionamiento. Durante una reparación, la potencia disponible puede ser inferior a la habitual. La recuperación de capacidad permite reincorporar recursos de generación al sistema y constituye una mejora operativa, especialmente cuando se necesita disponer de equipos en condiciones de responder a la demanda eléctrica.
+
+La potencia recuperada corresponde a capacidad que vuelve a estar disponible después de la intervención, no a una ampliación mediante la construcción de una central nueva. El período de mantenimiento permite ubicar temporalmente la reparación. La distinción resulta importante al interpretar las novedades de generación y comparar recuperaciones operativas con incorporaciones de infraestructura.</content:encoded>
+    </item>
+    <item>
+      <title>Energía Costa Serena: sufre una falla en una subestación</title>
+      <description>El corte afectó a 1200 usuarios y generó reclamos por pérdidas de alimentos.</description>
+      <link>https://caso02.example.invalid/noticias/004</link>
+      <guid>CU02-004</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Sat, 04 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>El corte afectó a 1200 usuarios y generó reclamos por pérdidas de alimentos. La interrupción duró seis horas.
+
+Las subestaciones cumplen una función esencial en el transporte y la distribución de electricidad. Una falla en esas instalaciones puede dejar sin suministro a numerosos usuarios y afectar actividades que dependen de la continuidad del servicio. En los hogares, la conservación de alimentos refrigerados es una de las preocupaciones más inmediatas cuando la interrupción se prolonga durante varias horas.
+
+La situación genera dificultades para quienes dependen de la infraestructura afectada. La información comunicada permite delimitar el problema, pero no debe interpretarse como una estimación de su impacto sobre todas las instalaciones que integran el sistema energético.</content:encoded>
+    </item>
+    <item>
+      <title>Energía Costa Serena: demora obras de transporte eléctrico</title>
+      <description>El retraso de tres meses agravó la incertidumbre de usuarios industriales.</description>
+      <link>https://caso02.example.invalid/noticias/005</link>
+      <guid>CU02-005</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Sun, 05 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>El retraso de tres meses agravó la incertidumbre de usuarios industriales. El proyecto comprende 42 kilómetros de líneas.
+
+Las obras de transporte eléctrico permiten vincular puntos de generación y consumo y requieren una planificación que contempla las condiciones de la red. Los retrasos dificultan anticipar cuándo estará disponible la infraestructura prevista. Para los usuarios industriales, esa incertidumbre puede complicar la organización de actividades que requieren un suministro suficiente y estable, especialmente cuando dependen de futuras ampliaciones de capacidad.
+
+El inconveniente representa una alteración de las condiciones habituales de funcionamiento. La magnitud de sus efectos posteriores dependerá de la evolución de las tareas necesarias para resolver el problema y de las condiciones de operación de los recursos disponibles.</content:encoded>
+    </item>
+    <item>
+      <title>Energía Costa Serena: registra pérdidas de combustible</title>
+      <description>El incidente provocó daños ambientales y preocupación entre trabajadores.</description>
+      <link>https://caso02.example.invalid/noticias/006</link>
+      <guid>CU02-006</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Mon, 06 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>El incidente provocó daños ambientales y preocupación entre trabajadores. Se suspendió la operación de dos depósitos.
+
+El almacenamiento de combustible exige medidas que limiten la posibilidad de pérdidas y la exposición de trabajadores al material. Cuando ocurre un incidente, la suspensión de operaciones afecta el funcionamiento habitual de las instalaciones. Los daños ambientales y la preocupación del personal ponen de manifiesto las consecuencias negativas que puede tener una falla en los mecanismos de contención.
+
+El episodio evidencia las dificultades que pueden surgir cuando una instalación no opera en las condiciones previstas. Los datos disponibles describen el impacto inmediato y no permiten establecer todavía el alcance de todas las consecuencias posteriores sobre el suministro o la actividad económica.</content:encoded>
+    </item>
+    <item>
+      <title>Energía Costa Serena: publica el programa de mantenimiento</title>
+      <description>El cronograma prevé inspecciones en cinco estaciones del sistema eléctrico argentino.</description>
+      <link>https://caso02.example.invalid/noticias/007</link>
+      <guid>CU02-007</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Tue, 07 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>El cronograma prevé inspecciones en cinco estaciones del sistema eléctrico argentino. Los trabajos se distribuyen durante junio.
+
+La programación de mantenimiento organiza las intervenciones destinadas a revisar el estado de los componentes del sistema eléctrico. Las inspecciones permiten registrar condiciones de funcionamiento y constituyen una etapa diferenciada de las reparaciones que puedan resultar necesarias. La distribución temporal de las tareas sirve como referencia para los equipos encargados de intervenir en las instalaciones incluidas en el cronograma.
+
+El registro permite identificar el alcance de la actividad informada. Para realizar comparaciones con otros procedimientos o períodos sería necesario contar con datos equivalentes y considerar las características particulares de las instalaciones comprendidas en cada caso.</content:encoded>
+    </item>
+    <item>
+      <title>Energía Costa Serena: informa el volumen de generación mensual</title>
+      <description>El reporte contabiliza 310 GWh de electricidad producida.</description>
+      <link>https://caso02.example.invalid/noticias/008</link>
+      <guid>CU02-008</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Wed, 08 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>El reporte contabiliza 310 GWh de electricidad producida. La cifra corresponde al mes de marzo.
+
+El volumen de generación expresa la cantidad de energía eléctrica producida durante un intervalo determinado. Este dato no debe confundirse con la potencia instalada, que describe una capacidad de producción en un momento dado. Los registros mensuales permiten organizar series de información sobre el funcionamiento del sistema, siempre que las comparaciones utilicen períodos y unidades de medida equivalentes.
+
+Los datos difundidos describen una instancia específica de la actividad del sector. Su interpretación requiere distinguir entre los valores registrados, las acciones programadas y los resultados que solo podrán conocerse después de la ejecución de las tareas correspondientes.</content:encoded>
+    </item>
+    <item>
+      <title>Energía Costa Serena: presenta una solicitud de conexión</title>
+      <description>El expediente contempla incorporar una instalación de 12 MW a la red.</description>
+      <link>https://caso02.example.invalid/noticias/009</link>
+      <guid>CU02-009</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Thu, 09 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>El expediente contempla incorporar una instalación de 12 MW a la red. La revisión técnica se realizará en mayo.
+
+Una solicitud de conexión inicia el procedimiento mediante el cual se examina la posibilidad de incorporar una instalación al sistema eléctrico. La revisión técnica contempla las características de la infraestructura propuesta y su relación con la red existente. La presentación del expediente no implica que la instalación haya comenzado a generar electricidad ni que su conexión se encuentre autorizada.
+
+La información constituye una referencia para el seguimiento operativo de las instalaciones. El anuncio se limita al período y a las condiciones indicadas, sin incluir una evaluación de la eficacia de las medidas ni anticipar resultados que todavía no se encuentran disponibles.</content:encoded>
+    </item>
+    <item>
+      <title>Energía Costa Serena: anuncia una audiencia tarifaria</title>
+      <description>La convocatoria fija una audiencia pública para el 18 de mayo.</description>
+      <link>https://caso02.example.invalid/noticias/010</link>
+      <guid>CU02-010</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Fri, 10 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>La convocatoria fija una audiencia pública para el 18 de mayo. El registro de participantes abre una semana antes.
+
+Una audiencia pública constituye una instancia de participación en la que pueden tratarse cuestiones relacionadas con las condiciones tarifarias del servicio. El registro previo permite organizar las intervenciones de quienes desean participar. La convocatoria establece el momento del encuentro, pero no anticipa el resultado del procedimiento ni supone que se haya aprobado una modificación en los valores facturados.
+
+Los datos difundidos describen una instancia específica de la actividad del sector. Su interpretación requiere distinguir entre los valores registrados, las acciones programadas y los resultados que solo podrán conocerse después de la ejecución de las tareas correspondientes.</content:encoded>
+    </item>
+    <item>
+      <title>Energía Costa Serena: instala medidores inteligentes</title>
+      <description>La instalación benefició a 600 hogares y facilitó el seguimiento del consumo.</description>
+      <link>https://caso02.example.invalid/noticias/011</link>
+      <guid>CU02-011</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Sat, 11 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>La instalación benefició a 600 hogares y facilitó el seguimiento del consumo. Los dispositivos registran lecturas cada hora.
+
+Los medidores inteligentes permiten consultar información de consumo con una resolución temporal más detallada que la de una lectura ocasional. Esa información facilita observar cómo se distribuye el uso de electricidad a lo largo del día. Para los hogares que reciben los dispositivos, disponer de registros más frecuentes representa una mejora en las posibilidades de conocer y organizar sus hábitos de consumo.
+
+La intervención pone de relieve la importancia de mantener recursos adecuados para prestar el servicio. El beneficio comunicado se refiere a las condiciones de operación descritas y no permite extrapolar automáticamente el resultado a otras redes o instalaciones energéticas.</content:encoded>
+    </item>
+    <item>
+      <title>Energía Costa Serena: mejora el rendimiento de turbinas</title>
+      <description>La modernización redujo el consumo de combustible y fue valorada por los técnicos.</description>
+      <link>https://caso02.example.invalid/noticias/012</link>
+      <guid>CU02-012</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Sun, 12 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>La modernización redujo el consumo de combustible y fue valorada por los técnicos. Dos unidades recibieron nuevos sistemas de control.
+
+El rendimiento de una turbina está relacionado con la forma en que se aprovecha el combustible para producir energía. Los sistemas de control permiten regular variables operativas que influyen en ese proceso. La modernización de las unidades favorece un uso más eficiente de los recursos y representa un avance para los equipos responsables del funcionamiento de las instalaciones de generación.
+
+La mejora se vincula con un uso más adecuado de los recursos disponibles. El alcance del resultado debe interpretarse en función de la instalación o los usuarios mencionados, sin atribuirle efectos sobre otras variables que no fueron incluidas en la información difundida.</content:encoded>
+    </item>
+    <item>
+      <title>Energía Costa Serena: conecta un sistema de almacenamiento</title>
+      <description>La batería de 8 MWh mejora la estabilidad del suministro y fue recibida favorablemente.</description>
+      <link>https://caso02.example.invalid/noticias/013</link>
+      <guid>CU02-013</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Mon, 13 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>La batería de 8 MWh mejora la estabilidad del suministro y fue recibida favorablemente. El sistema opera junto a una instalación renovable.
+
+Los sistemas de almacenamiento pueden recibir energía en determinados momentos y entregarla posteriormente cuando las condiciones de operación lo requieren. Su integración con instalaciones renovables ofrece herramientas para gestionar la variabilidad de la producción. La incorporación de la batería constituye una mejora para la operación del conjunto, al ampliar las posibilidades de administrar la energía disponible y contribuir a la estabilidad del suministro.
+
+La intervención pone de relieve la importancia de mantener recursos adecuados para prestar el servicio. El beneficio comunicado se refiere a las condiciones de operación descritas y no permite extrapolar automáticamente el resultado a otras redes o instalaciones energéticas.</content:encoded>
+    </item>
+    <item>
+      <title>Energía Costa Serena: reporta una avería en un gasoducto</title>
+      <description>La interrupción redujo el abastecimiento y perjudicó a usuarios industriales.</description>
+      <link>https://caso02.example.invalid/noticias/014</link>
+      <guid>CU02-014</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Tue, 14 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>La interrupción redujo el abastecimiento y perjudicó a usuarios industriales. Se restringió el caudal durante 36 horas.
+
+Los gasoductos transportan combustible hacia instalaciones y usuarios que dependen de un abastecimiento continuo. Una avería puede obligar a restringir la circulación del gas mientras se atiende el problema. Para las actividades industriales, una reducción del caudal disponible representa una dificultad operativa, especialmente cuando los procesos productivos necesitan mantener condiciones de suministro relativamente constantes.
+
+El inconveniente representa una alteración de las condiciones habituales de funcionamiento. La magnitud de sus efectos posteriores dependerá de la evolución de las tareas necesarias para resolver el problema y de las condiciones de operación de los recursos disponibles.</content:encoded>
+    </item>
+    <item>
+      <title>Energía Costa Serena: advierte sobre el deterioro de líneas</title>
+      <description>El informe señala un riesgo creciente de interrupciones y genera preocupación.</description>
+      <link>https://caso02.example.invalid/noticias/015</link>
+      <guid>CU02-015</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Wed, 15 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>El informe señala un riesgo creciente de interrupciones y genera preocupación. Se identificaron siete tramos con daños.
+
+El deterioro de las líneas de transporte o distribución puede comprometer la continuidad del suministro si los componentes afectados dejan de funcionar correctamente. La identificación de daños permite dimensionar el problema, pero no equivale a su resolución. La preocupación está vinculada con la exposición de los usuarios a posibles interrupciones mientras las instalaciones permanezcan en condiciones deficientes.
+
+El episodio evidencia las dificultades que pueden surgir cuando una instalación no opera en las condiciones previstas. Los datos disponibles describen el impacto inmediato y no permiten establecer todavía el alcance de todas las consecuencias posteriores sobre el suministro o la actividad económica.</content:encoded>
+    </item>
+    <item>
+      <title>Red Federal del Sur: suspende un proyecto eólico</title>
+      <description>La paralización dejó a 70 trabajadores sin tareas y retrasó nueva capacidad.</description>
+      <link>https://caso02.example.invalid/noticias/016</link>
+      <guid>CU02-016</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Thu, 16 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>La paralización dejó a 70 trabajadores sin tareas y retrasó nueva capacidad. El proyecto contemplaba nueve aerogeneradores.
+
+La instalación de aerogeneradores requiere trabajos de preparación, montaje y conexión que se desarrollan en distintas etapas. La paralización del proyecto afecta tanto las perspectivas de incorporación de potencia como las tareas de quienes participan en su construcción. La falta de continuidad genera incertidumbre laboral y retrasa la posibilidad de disponer de la infraestructura prevista para la generación eólica.
+
+El inconveniente representa una alteración de las condiciones habituales de funcionamiento. La magnitud de sus efectos posteriores dependerá de la evolución de las tareas necesarias para resolver el problema y de las condiciones de operación de los recursos disponibles.</content:encoded>
+    </item>
+    <item>
+      <title>Red Federal del Sur: difunde el balance de consumo</title>
+      <description>El registro informa una demanda de 420 GWh en el período.</description>
+      <link>https://caso02.example.invalid/noticias/017</link>
+      <guid>CU02-017</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Fri, 17 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>El registro informa una demanda de 420 GWh en el período. El informe distingue usuarios residenciales e industriales.
+
+Los balances de consumo permiten registrar la demanda de energía durante un período y diferenciar los grupos de usuarios que la integran. La separación entre consumos residenciales e industriales responde a características distintas de utilización del suministro. El dato agregado expresa el volumen demandado y no informa por sí solo acerca de las causas de las variaciones respecto de otros períodos.
+
+Los datos difundidos describen una instancia específica de la actividad del sector. Su interpretación requiere distinguir entre los valores registrados, las acciones programadas y los resultados que solo podrán conocerse después de la ejecución de las tareas correspondientes.</content:encoded>
+    </item>
+    <item>
+      <title>Red Federal del Sur: actualiza el plan de inspecciones</title>
+      <description>La programación fija visitas a ocho instalaciones energéticas.</description>
+      <link>https://caso02.example.invalid/noticias/018</link>
+      <guid>CU02-018</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Sat, 18 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>La programación fija visitas a ocho instalaciones energéticas. Las fechas se distribuyen entre mayo y julio.
+
+Las inspecciones técnicas forman parte de los procedimientos utilizados para documentar el estado de las instalaciones energéticas. La planificación establece qué lugares serán visitados y distribuye las actividades dentro del período previsto. El cronograma no constituye un informe de resultados: las observaciones sobre las condiciones de cada instalación deberán surgir de las revisiones que se efectúen.
+
+La información constituye una referencia para el seguimiento operativo de las instalaciones. El anuncio se limita al período y a las condiciones indicadas, sin incluir una evaluación de la eficacia de las medidas ni anticipar resultados que todavía no se encuentran disponibles.</content:encoded>
+    </item>
+    <item>
+      <title>Red Federal del Sur: extiende el servicio a zonas rurales</title>
+      <description>La conexión de 130 hogares fue celebrada por las comunidades beneficiadas.</description>
+      <link>https://caso02.example.invalid/noticias/019</link>
+      <guid>CU02-019</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Sun, 19 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>La conexión de 130 hogares fue celebrada por las comunidades beneficiadas. Se instalaron 16 kilómetros de líneas.
+
+El acceso al suministro eléctrico en zonas rurales puede mejorar las posibilidades de realizar actividades domésticas y productivas que requieren energía. La extensión de las líneas permite acercar el servicio a hogares que se encuentran alejados de la infraestructura existente. La conexión representa un beneficio concreto para las comunidades alcanzadas y una mejora en las condiciones de acceso a la electricidad.
+
+El resultado representa un avance operativo dentro de las instalaciones alcanzadas. Para conocer su efecto sobre el sistema en un período más amplio sería necesario disponer de registros adicionales de funcionamiento, ya que la mejora puntual no equivale a una evaluación integral de toda la infraestructura.</content:encoded>
+    </item>
+    <item>
+      <title>Red Federal del Sur: aumenta la disponibilidad de equipos</title>
+      <description>La incorporación de repuestos redujo las demoras y mejoró la continuidad del servicio.</description>
+      <link>https://caso02.example.invalid/noticias/020</link>
+      <guid>CU02-020</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Mon, 20 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>La incorporación de repuestos redujo las demoras y mejoró la continuidad del servicio. Se adquirieron 20 componentes de protección.
+
+La disponibilidad de repuestos resulta importante para atender desperfectos sin prolongar innecesariamente las intervenciones. Los componentes de protección cumplen funciones asociadas con el funcionamiento seguro de la red. Contar con estos elementos facilita la organización de las tareas de mantenimiento y contribuye a reducir los tiempos durante los cuales una instalación debe permanecer fuera de servicio.
+
+La intervención pone de relieve la importancia de mantener recursos adecuados para prestar el servicio. El beneficio comunicado se refiere a las condiciones de operación descritas y no permite extrapolar automáticamente el resultado a otras redes o instalaciones energéticas.</content:encoded>
+    </item>
+    <item>
+      <title>Red Federal del Sur: completa una capacitación técnica</title>
+      <description>El programa fortaleció las habilidades de 45 operarios y recibió buenas evaluaciones.</description>
+      <link>https://caso02.example.invalid/noticias/021</link>
+      <guid>CU02-021</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Tue, 21 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>El programa fortaleció las habilidades de 45 operarios y recibió buenas evaluaciones. La formación incluyó prácticas de seguridad.
+
+La capacitación de los operarios permite reforzar conocimientos necesarios para trabajar con equipos e instalaciones energéticas. Las actividades prácticas ofrecen un espacio para aplicar procedimientos de seguridad en situaciones de formación. La valoración favorable del programa destaca la importancia de disponer de personal preparado para realizar sus tareas y reconocer condiciones que requieren especial atención durante la operación.
+
+La mejora se vincula con un uso más adecuado de los recursos disponibles. El alcance del resultado debe interpretarse en función de la instalación o los usuarios mencionados, sin atribuirle efectos sobre otras variables que no fueron incluidas en la información difundida.</content:encoded>
+    </item>
+    <item>
+      <title>Red Federal del Sur: enfrenta reclamos por facturación</title>
+      <description>Los errores en boletas causaron perjuicios y malestar entre usuarios.</description>
+      <link>https://caso02.example.invalid/noticias/022</link>
+      <guid>CU02-022</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Wed, 22 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>Los errores en boletas causaron perjuicios y malestar entre usuarios. Se recibieron 92 solicitudes de rectificación.
+
+La facturación del servicio eléctrico requiere que los consumos y los cargos correspondientes se registren de manera adecuada. Los errores pueden generar gastos imprevistos y obligar a los usuarios a iniciar gestiones para obtener una corrección. La situación provoca malestar especialmente cuando las familias deben dedicar tiempo a revisar las boletas y solicitar la rectificación de importes cuestionados.
+
+La situación genera dificultades para quienes dependen de la infraestructura afectada. La información comunicada permite delimitar el problema, pero no debe interpretarse como una estimación de su impacto sobre todas las instalaciones que integran el sistema energético.</content:encoded>
+    </item>
+    <item>
+      <title>Red Federal del Sur: detecta una fuga de gas</title>
+      <description>La fuga obligó a interrumpir el suministro y alarmó a los vecinos.</description>
+      <link>https://caso02.example.invalid/noticias/023</link>
+      <guid>CU02-023</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Thu, 23 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>La fuga obligó a interrumpir el suministro y alarmó a los vecinos. Se aisló un tramo de la instalación.
+
+Una fuga en una instalación de gas representa una situación que exige controlar el suministro en el sector afectado. El aislamiento de un tramo permite limitar la circulación del combustible por esa parte de la infraestructura. Para los vecinos, la interrupción del servicio y la preocupación por el incidente constituyen dificultades que alteran las condiciones habituales de uso de la energía.
+
+El inconveniente representa una alteración de las condiciones habituales de funcionamiento. La magnitud de sus efectos posteriores dependerá de la evolución de las tareas necesarias para resolver el problema y de las condiciones de operación de los recursos disponibles.</content:encoded>
+    </item>
+    <item>
+      <title>Red Federal del Sur: informa daños por una tormenta</title>
+      <description>La caída de postes dejó sin electricidad a 350 hogares y causó dificultades.</description>
+      <link>https://caso02.example.invalid/noticias/024</link>
+      <guid>CU02-024</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Fri, 24 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>La caída de postes dejó sin electricidad a 350 hogares y causó dificultades. Los equipos reparan seis estructuras.
+
+Las estructuras que sostienen las líneas de distribución pueden resultar afectadas por fenómenos meteorológicos. Cuando los postes caen, los usuarios vinculados con los tramos dañados pueden quedar sin electricidad hasta que se restablezcan las condiciones de funcionamiento. La falta de suministro genera dificultades para las actividades domésticas y obliga a afrontar las consecuencias de una interrupción no programada.
+
+El episodio evidencia las dificultades que pueden surgir cuando una instalación no opera en las condiciones previstas. Los datos disponibles describen el impacto inmediato y no permiten establecer todavía el alcance de todas las consecuencias posteriores sobre el suministro o la actividad económica.</content:encoded>
+    </item>
+    <item>
+      <title>Cooperativa Luz del Monte: anuncia una licitación de equipos</title>
+      <description>El pliego incluye la compra de 15 interruptores de alta tensión.</description>
+      <link>https://caso02.example.invalid/noticias/025</link>
+      <guid>CU02-025</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Sat, 25 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>El pliego incluye la compra de 15 interruptores de alta tensión. Las ofertas se recibirán hasta el 30 de junio.
+
+Los interruptores de alta tensión son componentes utilizados para maniobrar y proteger circuitos del sistema eléctrico. Una licitación establece las condiciones bajo las cuales pueden presentarse ofertas para su provisión. La publicación del pliego corresponde a una etapa del procedimiento de compra y no implica que los equipos hayan sido entregados o incorporados a las instalaciones.
+
+El registro permite identificar el alcance de la actividad informada. Para realizar comparaciones con otros procedimientos o períodos sería necesario contar con datos equivalentes y considerar las características particulares de las instalaciones comprendidas en cada caso.</content:encoded>
+    </item>
+    <item>
+      <title>Cooperativa Luz del Monte: publica datos de producción de gas</title>
+      <description>El informe registra 28 millones de metros cúbicos durante el período.</description>
+      <link>https://caso02.example.invalid/noticias/026</link>
+      <guid>CU02-026</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Wed, 01 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>El informe registra 28 millones de metros cúbicos durante el período. La serie se organiza por unidad operativa.
+
+Los informes de producción de gas registran los volúmenes obtenidos durante intervalos definidos. La organización de los datos por unidad operativa permite distinguir los aportes de las instalaciones comprendidas en el registro. Para interpretar las cifras es necesario considerar las unidades utilizadas y el período al que corresponden, sin confundir el volumen producido con la capacidad máxima de extracción.
+
+Los datos difundidos describen una instancia específica de la actividad del sector. Su interpretación requiere distinguir entre los valores registrados, las acciones programadas y los resultados que solo podrán conocerse después de la ejecución de las tareas correspondientes.</content:encoded>
+    </item>
+    <item>
+      <title>Cooperativa Luz del Monte: logra una reducción de pérdidas técnicas</title>
+      <description>La mejora del 4 por ciento fue celebrada por el equipo de operación.</description>
+      <link>https://caso02.example.invalid/noticias/027</link>
+      <guid>CU02-027</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Thu, 02 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>La mejora del 4 por ciento fue celebrada por el equipo de operación. El resultado se obtuvo tras ajustar la red de distribución.
+
+Las pérdidas técnicas se relacionan con la energía que no llega a los puntos de consumo debido a las características físicas de la red. Los ajustes operativos pueden ayudar a mejorar el aprovechamiento de los recursos disponibles. La reducción registrada representa un resultado favorable para quienes administran la distribución, al disminuir las pérdidas asociadas con el funcionamiento de las instalaciones.
+
+La intervención pone de relieve la importancia de mantener recursos adecuados para prestar el servicio. El beneficio comunicado se refiere a las condiciones de operación descritas y no permite extrapolar automáticamente el resultado a otras redes o instalaciones energéticas.</content:encoded>
+    </item>
+    <item>
+      <title>Cooperativa Luz del Monte: denuncia vandalismo en instalaciones</title>
+      <description>Los daños retrasaron el restablecimiento del servicio y provocaron preocupación.</description>
+      <link>https://caso02.example.invalid/noticias/028</link>
+      <guid>CU02-028</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Fri, 03 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>Los daños retrasaron el restablecimiento del servicio y provocaron preocupación. Se afectaron dos gabinetes de control.
+
+Los gabinetes de control alojan elementos necesarios para supervisar o maniobrar partes de una instalación. Los daños provocados por actos de vandalismo dificultan su utilización y pueden interferir con las tareas de recuperación del servicio. La situación genera preocupación porque afecta recursos que deben mantenerse en condiciones adecuadas para garantizar el funcionamiento de la infraestructura energética.
+
+El episodio evidencia las dificultades que pueden surgir cuando una instalación no opera en las condiciones previstas. Los datos disponibles describen el impacto inmediato y no permiten establecer todavía el alcance de todas las consecuencias posteriores sobre el suministro o la actividad económica.</content:encoded>
+    </item>
+    <item>
+      <title>Cooperativa Luz del Monte: comunica el horario de una reunión técnica</title>
+      <description>La reunión sobre planificación de la red tendrá dos sesiones.</description>
+      <link>https://caso02.example.invalid/noticias/029</link>
+      <guid>CU02-029</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Sat, 04 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>La reunión sobre planificación de la red tendrá dos sesiones. Se realizará el 22 de junio.
+
+Las reuniones de planificación técnica sirven para organizar el tratamiento de cuestiones relacionadas con la operación y el desarrollo de la red. La división en sesiones establece una estructura para abordar los asuntos previstos durante la jornada. El anuncio corresponde a la programación del encuentro y no informa sobre decisiones adoptadas ni sobre modificaciones que puedan surgir de las deliberaciones.
+
+La información constituye una referencia para el seguimiento operativo de las instalaciones. El anuncio se limita al período y a las condiciones indicadas, sin incluir una evaluación de la eficacia de las medidas ni anticipar resultados que todavía no se encuentran disponibles.</content:encoded>
+    </item>
+    <item>
+      <title>Cooperativa Luz del Monte: informa una parada programada de producción</title>
+      <description>El cronograma prevé retirar temporalmente 15 MW por mantenimiento preventivo.</description>
+      <link>https://caso02.example.invalid/noticias/030</link>
+      <guid>CU02-030</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Sun, 05 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>El cronograma prevé retirar temporalmente 15 MW por mantenimiento preventivo. Una unidad quedará fuera de servicio durante la inspección.
+
+Las paradas programadas permiten retirar equipos de operación para realizar tareas de revisión preventiva. Durante ese intervalo, la potencia disponible del conjunto puede variar en función de las unidades que continúen en servicio. El cronograma especifica una reducción temporal de capacidad y debe distinguirse de una falla imprevista o de una disminución permanente de la capacidad instalada.
+
+El registro permite identificar el alcance de la actividad informada. Para realizar comparaciones con otros procedimientos o períodos sería necesario contar con datos equivalentes y considerar las características particulares de las instalaciones comprendidas en cada caso.</content:encoded>
+    </item>
+    <item>
+      <title>Celebra una feria de artesanías</title>
+      <description>La venta de productos locales fue un éxito y los expositores celebraron la concurrencia.</description>
+      <link>https://caso02.example.invalid/noticias/031</link>
+      <guid>CU02-031</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Mon, 06 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>La venta de productos locales fue un éxito y los expositores celebraron la concurrencia. Hubo 45 puestos de venta.
+
+Las ferias de artesanías ofrecen a los productores un espacio para mostrar objetos elaborados mediante diferentes técnicas y conversar directamente con quienes los adquieren. La posibilidad de vender sin intermediarios favorece el intercambio entre expositores y visitantes. La buena respuesta del público representa un estímulo para quienes dedican tiempo a preparar sus productos y participar de este tipo de encuentros.
+
+La actividad pone en valor el esfuerzo de quienes participaron y la posibilidad de compartir experiencias en el ámbito comunitario. El resultado favorable se refiere al encuentro descrito y no supone una evaluación de otras iniciativas que puedan organizarse en el futuro.</content:encoded>
+    </item>
+    <item>
+      <title>Suspende un festival por lluvias</title>
+      <description>La cancelación decepcionó a familias y comerciantes.</description>
+      <link>https://caso02.example.invalid/noticias/032</link>
+      <guid>CU02-032</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Tue, 07 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>La cancelación decepcionó a familias y comerciantes. La actividad se reprogramará cuando mejore el tiempo.
+
+Los festivales al aire libre dependen de condiciones meteorológicas que permitan desarrollar las actividades previstas y recibir al público. La cancelación obliga a reorganizar los planes de quienes esperaban asistir y de los comerciantes que contaban con la jornada para ofrecer sus productos. La incertidumbre sobre una nueva fecha prolonga la dificultad de coordinar los compromisos asociados al evento.
+
+El episodio provoca malestar entre las personas directamente afectadas. Además del perjuicio inmediato, la necesidad de reorganizar las actividades representa un esfuerzo adicional para quienes contaban con las condiciones habituales de funcionamiento o con la realización del encuentro previsto.</content:encoded>
+    </item>
+    <item>
+      <title>Publica el calendario de una liga deportiva</title>
+      <description>El torneo tendrá ocho fechas y dos divisiones.</description>
+      <link>https://caso02.example.invalid/noticias/033</link>
+      <guid>CU02-033</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Wed, 08 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>El torneo tendrá ocho fechas y dos divisiones. La primera jornada se disputará el domingo.
+
+La publicación del calendario permite que los equipos conozcan la secuencia de jornadas previstas para el desarrollo del torneo. La división de los participantes en categorías organiza los enfrentamientos y facilita la identificación de los partidos correspondientes a cada grupo. El cronograma describe la programación de la competencia, sin anticipar los resultados deportivos que se producirán durante su desarrollo.
+
+La información anunciada funciona como referencia para organizar la participación en la actividad. Los datos corresponden a las condiciones comunicadas y no anticipan resultados ni incluyen una valoración sobre la experiencia de quienes concurran o intervengan en ella.</content:encoded>
+    </item>
+    <item>
+      <title>Recupera un espacio verde</title>
+      <description>La renovación del parque alegró a vecinos y mejoró el acceso recreativo.</description>
+      <link>https://caso02.example.invalid/noticias/034</link>
+      <guid>CU02-034</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Thu, 09 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>La renovación del parque alegró a vecinos y mejoró el acceso recreativo. Se colocaron 12 bancos.
+
+Los espacios verdes ofrecen lugares de encuentro y recreación para personas de distintas edades. La renovación de un parque permite recuperar sectores que pueden utilizarse para descansar, caminar o compartir actividades al aire libre. La colocación de mobiliario contribuye a que los visitantes dispongan de lugares para sentarse y disfrutar del entorno durante sus recorridos cotidianos.
+
+La actividad pone en valor el esfuerzo de quienes participaron y la posibilidad de compartir experiencias en el ámbito comunitario. El resultado favorable se refiere al encuentro descrito y no supone una evaluación de otras iniciativas que puedan organizarse en el futuro.</content:encoded>
+    </item>
+    <item>
+      <title>Pierde mercadería por una inundación</title>
+      <description>Los comerciantes lamentaron los daños en sus puestos.</description>
+      <link>https://caso02.example.invalid/noticias/035</link>
+      <guid>CU02-035</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Fri, 10 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>Los comerciantes lamentaron los daños en sus puestos. Se relevaron nueve locales afectados.
+
+Las inundaciones pueden afectar la conservación de los productos que permanecen en locales y puestos comerciales. La pérdida de mercadería representa un perjuicio económico para quienes dependen de esas existencias para realizar sus ventas. El relevamiento de los daños permite identificar los espacios afectados, aunque no elimina las dificultades de los comerciantes que deben afrontar las consecuencias del agua.
+
+El episodio provoca malestar entre las personas directamente afectadas. Además del perjuicio inmediato, la necesidad de reorganizar las actividades representa un esfuerzo adicional para quienes contaban con las condiciones habituales de funcionamiento o con la realización del encuentro previsto.</content:encoded>
+    </item>
+    <item>
+      <title>Anuncia una muestra de fotografía</title>
+      <description>La exposición tendrá 32 obras y entrada libre.</description>
+      <link>https://caso02.example.invalid/noticias/036</link>
+      <guid>CU02-036</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Sat, 11 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>La exposición tendrá 32 obras y entrada libre. Se inaugurará el viernes.
+
+Una muestra fotográfica reúne imágenes seleccionadas para su presentación en un espacio de exhibición. Los visitantes pueden recorrer las obras y observar los distintos enfoques visuales de quienes participaron en la propuesta. La información sobre la inauguración y las condiciones de acceso permite organizar la visita, sin establecer valoraciones sobre el contenido artístico de las fotografías expuestas.
+
+La información anunciada funciona como referencia para organizar la participación en la actividad. Los datos corresponden a las condiciones comunicadas y no anticipan resultados ni incluyen una valoración sobre la experiencia de quienes concurran o intervengan en ella.</content:encoded>
+    </item>
+    <item>
+      <title>Obtiene un premio de cocina</title>
+      <description>El reconocimiento fue recibido con alegría por el equipo de cocineros.</description>
+      <link>https://caso02.example.invalid/noticias/037</link>
+      <guid>CU02-037</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Sun, 12 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>El reconocimiento fue recibido con alegría por el equipo de cocineros. Participaron 18 propuestas.
+
+Los concursos de cocina ofrecen a los participantes la oportunidad de presentar preparaciones y mostrar las técnicas utilizadas para elaborarlas. Recibir una distinción representa una valoración favorable del trabajo realizado durante la competencia. El reconocimiento resulta alentador para el equipo que participó en la preparación de los platos y compartió su propuesta con los responsables de la evaluación.
+
+La actividad pone en valor el esfuerzo de quienes participaron y la posibilidad de compartir experiencias en el ámbito comunitario. El resultado favorable se refiere al encuentro descrito y no supone una evaluación de otras iniciativas que puedan organizarse en el futuro.</content:encoded>
+    </item>
+    <item>
+      <title>Registra daños en una cancha</title>
+      <description>El deterioro obligó a cancelar partidos y generó quejas.</description>
+      <link>https://caso02.example.invalid/noticias/038</link>
+      <guid>CU02-038</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Mon, 13 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>El deterioro obligó a cancelar partidos y generó quejas. La reparación llevará una semana.
+
+El estado de una cancha determina si puede utilizarse de manera adecuada para la práctica deportiva. Cuando el deterioro impide desarrollar los encuentros previstos, los equipos deben reorganizar sus actividades y enfrentar la frustración de no poder competir. La espera durante las reparaciones afecta a quienes habían organizado sus horarios en función de los partidos programados.
+
+El episodio provoca malestar entre las personas directamente afectadas. Además del perjuicio inmediato, la necesidad de reorganizar las actividades representa un esfuerzo adicional para quienes contaban con las condiciones habituales de funcionamiento o con la realización del encuentro previsto.</content:encoded>
+    </item>
+    <item>
+      <title>Informa cambios en recorridos de colectivos</title>
+      <description>Tres líneas modificarán sus paradas durante el fin de semana.</description>
+      <link>https://caso02.example.invalid/noticias/039</link>
+      <guid>CU02-039</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Tue, 14 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>Tres líneas modificarán sus paradas durante el fin de semana. Los recorridos alternativos están publicados.
+
+Las modificaciones de recorridos de transporte urbano requieren que los pasajeros identifiquen las paradas que estarán disponibles durante el período indicado. Los itinerarios alternativos sirven para conocer por dónde circularán las unidades mientras se aplique el cambio. La información publicada se refiere a la organización temporal del servicio y no supone una modificación permanente de todos sus trayectos.
+
+La información anunciada funciona como referencia para organizar la participación en la actividad. Los datos corresponden a las condiciones comunicadas y no anticipan resultados ni incluyen una valoración sobre la experiencia de quienes concurran o intervengan en ella.</content:encoded>
+    </item>
+    <item>
+      <title>Abre una sala de teatro</title>
+      <description>El nuevo espacio cultural entusiasmó al público local.</description>
+      <link>https://caso02.example.invalid/noticias/040</link>
+      <guid>CU02-040</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Wed, 15 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>El nuevo espacio cultural entusiasmó al público local. La capacidad es de 90 espectadores.
+
+Las salas de teatro ofrecen un espacio para presentar espectáculos y reunir a intérpretes con el público. La apertura de un nuevo recinto amplía las posibilidades de acceder a actividades culturales en la comunidad. La respuesta entusiasta de los asistentes refleja el interés por disponer de lugares adecuados para disfrutar de las representaciones y compartir experiencias vinculadas con las artes escénicas.
+
+La actividad pone en valor el esfuerzo de quienes participaron y la posibilidad de compartir experiencias en el ámbito comunitario. El resultado favorable se refiere al encuentro descrito y no supone una evaluación de otras iniciativas que puedan organizarse en el futuro.</content:encoded>
+    </item>
+    <item>
+      <title>Recibe reclamos por ruidos</title>
+      <description>Los vecinos expresaron malestar por las molestias nocturnas.</description>
+      <link>https://caso02.example.invalid/noticias/041</link>
+      <guid>CU02-041</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Thu, 16 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>Los vecinos expresaron malestar por las molestias nocturnas. Se presentaron 22 denuncias.
+
+Los ruidos durante la noche pueden dificultar el descanso de quienes residen cerca de los lugares donde se originan las molestias. Cuando la situación se repite, los vecinos pueden verse obligados a realizar presentaciones para expresar su disconformidad. Las denuncias registradas reflejan el malestar provocado por una alteración de las condiciones habituales de convivencia en el entorno residencial.
+
+El episodio provoca malestar entre las personas directamente afectadas. Además del perjuicio inmediato, la necesidad de reorganizar las actividades representa un esfuerzo adicional para quienes contaban con las condiciones habituales de funcionamiento o con la realización del encuentro previsto.</content:encoded>
+    </item>
+    <item>
+      <title>Presenta una colección de cerámica</title>
+      <description>La exhibición incluye 28 piezas de elaboración artesanal.</description>
+      <link>https://caso02.example.invalid/noticias/042</link>
+      <guid>CU02-042</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Fri, 17 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>La exhibición incluye 28 piezas de elaboración artesanal. La muestra durará diez días.
+
+La exhibición de cerámica permite observar piezas elaboradas mediante distintas formas de modelado y terminación. La colección reúne objetos que se presentan como parte de una propuesta artesanal. El período de apertura establece el intervalo durante el cual estarán disponibles para su observación y sirve como referencia para quienes desean recorrer el espacio de exposición.
+
+La información anunciada funciona como referencia para organizar la participación en la actividad. Los datos corresponden a las condiciones comunicadas y no anticipan resultados ni incluyen una valoración sobre la experiencia de quienes concurran o intervengan en ella.</content:encoded>
+    </item>
+    <item>
+      <title>Celebra una campaña de adopción animal</title>
+      <description>La jornada permitió encontrar hogares para 14 animales y fue muy bien recibida.</description>
+      <link>https://caso02.example.invalid/noticias/043</link>
+      <guid>CU02-043</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Sat, 18 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>La jornada permitió encontrar hogares para 14 animales y fue muy bien recibida. Participaron voluntarios de varios barrios.
+
+Las jornadas de adopción facilitan el encuentro entre animales que necesitan un hogar y personas interesadas en asumir su cuidado. La colaboración de voluntarios ayuda a organizar el contacto con las familias y acompañar la actividad. Encontrar hogares para los animales representa un resultado favorable para quienes participan en estas iniciativas y buscan mejorar sus condiciones de vida.
+
+La actividad pone en valor el esfuerzo de quienes participaron y la posibilidad de compartir experiencias en el ámbito comunitario. El resultado favorable se refiere al encuentro descrito y no supone una evaluación de otras iniciativas que puedan organizarse en el futuro.</content:encoded>
+    </item>
+    <item>
+      <title>Cancela una competencia de ciclismo</title>
+      <description>La suspensión frustró a los participantes inscriptos.</description>
+      <link>https://caso02.example.invalid/noticias/044</link>
+      <guid>CU02-044</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Sun, 19 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>La suspensión frustró a los participantes inscriptos. El circuito quedó intransitable.
+
+Las competencias de ciclismo requieren que el circuito se encuentre en condiciones adecuadas para el desplazamiento de los participantes. Cuando el recorrido resulta intransitable, la suspensión impide realizar la actividad para la cual se habían preparado. La frustración se relaciona con el esfuerzo destinado a la preparación y con la necesidad de reorganizar los compromisos previstos para la jornada deportiva.
+
+El episodio provoca malestar entre las personas directamente afectadas. Además del perjuicio inmediato, la necesidad de reorganizar las actividades representa un esfuerzo adicional para quienes contaban con las condiciones habituales de funcionamiento o con la realización del encuentro previsto.</content:encoded>
+    </item>
+    <item>
+      <title>Difunde horarios de un museo</title>
+      <description>El establecimiento abrirá de martes a domingo.</description>
+      <link>https://caso02.example.invalid/noticias/045</link>
+      <guid>CU02-045</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Mon, 20 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>El establecimiento abrirá de martes a domingo. La entrada general se vende en boletería.
+
+Los horarios de un museo indican las franjas en las que los visitantes pueden acceder a sus espacios de exhibición. Conocer los días de apertura permite organizar el recorrido y distinguirlos de aquellos en los que el establecimiento permanece cerrado al público. La venta de entradas en boletería constituye el mecanismo de acceso informado para la visita general.
+
+La información anunciada funciona como referencia para organizar la participación en la actividad. Los datos corresponden a las condiciones comunicadas y no anticipan resultados ni incluyen una valoración sobre la experiencia de quienes concurran o intervengan en ella.</content:encoded>
+    </item>
+    <item>
+      <title>Organiza un taller de cocina</title>
+      <description>La actividad recibió elogios por su carácter participativo.</description>
+      <link>https://caso02.example.invalid/noticias/046</link>
+      <guid>CU02-046</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Tue, 21 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>La actividad recibió elogios por su carácter participativo. Asistieron 25 personas.
+
+Los talleres de cocina permiten compartir procedimientos de preparación de alimentos y poner en práctica conocimientos durante la actividad. El carácter participativo favorece el intercambio entre asistentes, quienes pueden observar diferentes maneras de realizar las tareas. La recepción favorable del encuentro destaca el valor de contar con espacios donde aprender y disfrutar de una experiencia práctica compartida.
+
+La actividad pone en valor el esfuerzo de quienes participaron y la posibilidad de compartir experiencias en el ámbito comunitario. El resultado favorable se refiere al encuentro descrito y no supone una evaluación de otras iniciativas que puedan organizarse en el futuro.</content:encoded>
+    </item>
+    <item>
+      <title>Advierte sobre daños en una plaza</title>
+      <description>La rotura de juegos infantiles generó preocupación entre familias.</description>
+      <link>https://caso02.example.invalid/noticias/047</link>
+      <guid>CU02-047</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Wed, 22 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>La rotura de juegos infantiles generó preocupación entre familias. Se colocaron vallas preventivas.
+
+El deterioro de los juegos de una plaza afecta a las familias que utilizan el lugar para sus actividades recreativas. Las roturas generan preocupación por las condiciones en las que los niños pueden acercarse a las estructuras. La colocación de vallas limita el acceso a los sectores afectados, pero no resuelve por sí misma los daños que motivaron la medida preventiva.
+
+El episodio provoca malestar entre las personas directamente afectadas. Además del perjuicio inmediato, la necesidad de reorganizar las actividades representa un esfuerzo adicional para quienes contaban con las condiciones habituales de funcionamiento o con la realización del encuentro previsto.</content:encoded>
+    </item>
+    <item>
+      <title>Programa una función de cine</title>
+      <description>La proyección comenzará a las 20 y durará 95 minutos.</description>
+      <link>https://caso02.example.invalid/noticias/048</link>
+      <guid>CU02-048</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Thu, 23 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>La proyección comenzará a las 20 y durará 95 minutos. Las localidades se retiran en la entrada.
+
+La programación de una función cinematográfica establece el momento de inicio y la duración prevista de la proyección. Estos datos permiten que los espectadores organicen su asistencia y conozcan el tiempo aproximado que permanecerán en el recinto. El retiro de localidades en la entrada corresponde al procedimiento informado para acceder a la sala durante la función anunciada.
+
+La información anunciada funciona como referencia para organizar la participación en la actividad. Los datos corresponden a las condiciones comunicadas y no anticipan resultados ni incluyen una valoración sobre la experiencia de quienes concurran o intervengan en ella.</content:encoded>
+    </item>
+    <item>
+      <title>Celebra la energía del público en un recital</title>
+      <description>Los músicos agradecieron el entusiasmo de los asistentes.</description>
+      <link>https://caso02.example.invalid/noticias/049</link>
+      <guid>CU02-049</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Fri, 24 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>Los músicos agradecieron el entusiasmo de los asistentes. La función reunió a 400 personas.
+
+En los espectáculos musicales, la respuesta del público forma parte de la experiencia compartida entre quienes actúan y quienes asisten. El entusiasmo de los espectadores puede manifestarse mediante aplausos y otras expresiones de reconocimiento artístico. La valoración de los músicos se refiere a esa participación durante el recital y al ambiente favorable que acompañó el desarrollo de la presentación.
+
+La actividad pone en valor el esfuerzo de quienes participaron y la posibilidad de compartir experiencias en el ámbito comunitario. El resultado favorable se refiere al encuentro descrito y no supone una evaluación de otras iniciativas que puedan organizarse en el futuro.</content:encoded>
+    </item>
+    <item>
+      <title>Informa resultados de un partido de la liga universitaria recreativa</title>
+      <description>El equipo visitante ganó por dos tantos a uno en un encuentro barrial sin vínculo institucional con centros de enseñanza.</description>
+      <link>https://caso02.example.invalid/noticias/050</link>
+      <guid>CU02-050</guid>
+      <author>redaccion@example.invalid (Redacción ficticia)</author>
+      <pubDate>Sat, 25 Apr 2026 10:00:00 +0000</pubDate>
+      <content:encoded>El equipo visitante ganó por dos tantos a uno en un encuentro barrial sin vínculo institucional con centros de enseñanza. La próxima fecha se disputará el sábado.
+
+El encuentro forma parte de una competencia deportiva recreativa organizada en el ámbito barrial. La denominación de la liga no implica que los equipos representen a establecimientos educativos ni que los resultados formen parte de actividades académicas. El marcador describe el resultado del partido disputado, mientras que la fecha siguiente corresponde a la continuidad del calendario de la competencia.
+
+El anuncio describe los aspectos organizativos del encuentro o servicio. Las condiciones indicadas permiten identificar su alcance temporal y facilitar la planificación de las personas interesadas, sin establecer conclusiones sobre el desarrollo de actividades posteriores.</content:encoded>
+    </item>
+  </channel>
+</rss>

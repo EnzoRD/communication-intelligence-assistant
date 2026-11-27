@@ -1,0 +1,32 @@
+﻿rss_news_id,entity_text,entity_type,expected_occurrences
+1,Google Drive,product,1
+1,Gmail,product,1
+1,Google Fotos,product,1
+37,Android,product,1
+41,WhatsApp,product,1
+59,Nokia 1100,product,1
+59,Snake,product,1
+89,Gemini,product,1
+114,Torre Eiffel,location,2
+114,Google Earth,product,2
+114,Google,organization,1
+114,Agencia de Noticias Científicas de la UNQ,organization,1
+115,Argentina,location,2
+115,Carem,product,1
+115,Agencia de Noticias Científicas de la UNQ,organization,1
+118,Erling Haaland,person,2
+118,YouTube,product,1
+118,Snapchat,product,1
+118,Agencia de Noticias Científicas de la UNQ,organization,1
+125,Agencia de Noticias Científicas de la UNQ,organization,1
+126,Agencia de Noticias Científicas de la UNQ,organization,1
+129,Agencia de Noticias Científicas de la UNQ,organization,1
+134,Agencia de Noticias Científicas de la UNQ,organization,1
+129,Margaret Bulkley,person,2
+129,James Barry,person,1
+159,Latinoamérica,location,3
+179,América Latina,location,1
+179,Instituto Tecnológico de Massachussetts,organization,1
+183,Universidad Chulalongkorn,organization,1
+183,Tailandia,location,1
+183,sudeste asiático,location,1
